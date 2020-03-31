@@ -1,34 +1,33 @@
 (function($) {
     "use strict";
-    $(function(){
-        // AMIMATED NUMBER
-        $('.progress-bar-number').appear(function(){
-            setTimeout(function(){
+    $(function() {
+        // ANIMATED NUMBER
+        $('.progress-bar-number').appear(function() {
+            setTimeout(function() {
                 $('.progress-bar-number .num').countTo();
-            },1000);
+            }, 1000);
         });
 
-        $('.pricing').appear(function(){
-            setTimeout(function(){
+        $('.pricing').appear(function() {
+            setTimeout(function() {
                 $('.pricing .inner-number').countTo();
-            },1000);
+            }, 1000);
         });
         // -------------------------------------//
         // WFECT FOR SECTION PRICING
         if ($(window).width() > 600) {
-            $('.pricing-widget').hover( function () {
+            $('.pricing-widget').hover(function() {
                 $('.pricing').find('.pricing-widget.main').removeClass('active');
-            }, function () {
+            }, function() {
                 $('.pricing-widget.main').addClass('active');
             });
-        }
-        else {
+        } else {
             $('.pricing').find('.pricing-widget.main').removeClass('active');
         }
         // -------------------------------------//
 
         // INITIALIZE ISOTOPE WHEN NEWTAB ACTIVE
-        $('.picture-gallery-wrapper a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+        $('.picture-gallery-wrapper a[data-toggle="tab"]').on('shown.bs.tab', function(e) {
             $('.grid').isotope({
                 itemSelector: '.grid-item',
                 masonry: {
@@ -39,7 +38,7 @@
 
     });
 
-    $(window).load(function() {
+    $(window).load(function(e) {
 
         // GALLERY ISSOTOPE
         $('.grid').isotope({
@@ -49,15 +48,17 @@
             }
         });
 
+        e.preventDefault();
+
         // -------------------------------------//
         // SHOW IMAGE GALLERY
         $(".fancybox-button").fancybox({
-            prevEffect		: 'none',
-            nextEffect		: 'none',
-            closeBtn		: false,
-            helpers		: {
-                title	: { type : 'inside' },
-                buttons	: {}
+            prevEffect: 'none',
+            nextEffect: 'none',
+            closeBtn: false,
+            helpers: {
+                title: { type: 'inside' },
+                buttons: {}
             }
         });
         // -------------------------------------//
