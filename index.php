@@ -94,7 +94,7 @@
                                         </li>
                                     </ul>
                                 </li> -->
-                                <li><a href="#" class="theme-button">work with us <i class="fa fa-angle-right btn-icon"></i></a></li>
+                                <li><a href="#" class="theme-button">Apply Now <i class="fa fa-angle-right btn-icon"></i></a></li>
                             </ul>
                         </div><!-- end header-top-info -->
                     </div><!-- end col-lg-6 -->
@@ -136,9 +136,9 @@
                                             <li>
                                                 <a href="#">Our Syllabus &nbsp; <i class="fa fa-angle-right"></i></a>
                                                 <ul class="sub-menu">
-                                                <li><a href="#">B.SC. HAH</a></li>
-                                                <li><a href="#">M.SC. HAH</a></li>
-                                                <li><a href="#">DIPLOMA IN FOOD PRODUCTION</a></li>
+                                                    <li><a href="#">B.SC. HAH</a></li>
+                                                    <li><a href="#">M.SC. HAH</a></li>
+                                                    <li><a href="#">DIPLOMA IN FOOD PRODUCTION</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -164,7 +164,7 @@
                                             <li><a href="training-dubai">TRAINING IN DUBAI</a></li>
                                             <li><a href="training-malaysia">TRAINING IN MALAYSIA</a></li>
                                         </ul>
-                                    </li>                                   
+                                    </li>
                                     <li><a href="contact-form">Contact Us</a></li>
                                 </ul>
                             </nav>
@@ -213,7 +213,7 @@
                     <li class="sidenav__item">
                         <a href="#">About LBIIHM</a>
                         <span class="menu-plus-icon"></span>
-                        <ul class="side-sub-menu" >
+                        <ul class="side-sub-menu">
                             <li><a href="about-us">About Us</a></li>
                             <li><a href="courses-detail">Why LBIIHM?</a></li>
                             <li><a href="events">Vision & Mission </a></li>
@@ -233,9 +233,9 @@
                                 <a href="#">Our Syllabus</a>
                                 <span class="menu-plus-icon"></span>
                                 <ul class="side-sub-menu">
-                                <li><a href="#">B.SC. HAH</a></li>
-                                <li><a href="#">M.SC. HAH</a></li>
-                                <li><a href="#">DIPLOMA IN FOOD PRODUCTION</a></li>
+                                    <li><a href="#">B.SC. HAH</a></li>
+                                    <li><a href="#">M.SC. HAH</a></li>
+                                    <li><a href="#">DIPLOMA IN FOOD PRODUCTION</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -367,8 +367,8 @@
                     <div class="feature-item feature-item1">
                         <div class="hover-overlay"></div>
                         <i class="la la-user feature__icon"></i>
-                        <h3 class="feature__title">Expert Teachers</h3>
-                        <p class="feature__text">Tmply dummy text of the printing and typesetting industry. Lorem Ipsum</p>
+                        <h3 class="feature__title">Life at LBIIHM</h3>
+                        <p class="feature__text">LBIIHM provides you with one of the most student-friendly atmospheres to grow in- both personally & professionally.</p>
                         <a href="#" class="feature__btn">read more</a>
                     </div><!-- end feature-item -->
                 </div><!-- end col-lg-3 -->
@@ -376,8 +376,8 @@
                     <div class="feature-item feature-item2">
                         <div class="hover-overlay"></div>
                         <i class="la la-paper-plane-o feature__icon"></i>
-                        <h3 class="feature__title">Easy Communication</h3>
-                        <p class="feature__text">Tmply dummy text of the printing and typesetting industry. Lorem Ipsum</p>
+                        <h3 class="feature__title">Industrial Training</h3>
+                        <p class="feature__text">LBIIHM has its own "Training and Placement Department" which provides Placement Assistance to all the deserving candidates of our Institute.</p>
                         <a href="#" class="feature__btn">read more</a>
                     </div><!-- end feature-item -->
                 </div><!-- end col-lg-3 -->
@@ -385,8 +385,8 @@
                     <div class="feature-item feature-item3">
                         <div class="hover-overlay"></div>
                         <i class="la la-graduation-cap feature__icon"></i>
-                        <h3 class="feature__title">Get Certificates</h3>
-                        <p class="feature__text">Tmply dummy text of the printing and typesetting industry. Lorem Ipsum</p>
+                        <h3 class="feature__title">Get Placement</h3>
+                        <p class="feature__text">LBIIHM has an active placement cell, which provides all possible assistance for the placement of all qualified and deserving students.</p>
                         <a href="#" class="feature__btn">read more</a>
                     </div><!-- end feature-item -->
                 </div><!-- end col-lg-3 -->
@@ -2369,30 +2369,30 @@
             <div class="funfact-row">
                 <div class="funfact-item">
                     <div class="funfact-inner-item">
-                        <span class="la la-bullhorn"></span>
-                        <h4 class="funfact__title counter">4520</h4>
-                        <p class="funfact__meta">expert instructors</p>
+                        <span class="la la-graduation-cap"></span>
+                        <h4 class="funfact__title counter">800</h4>
+                        <p class="funfact__meta">STUDENTS ENROLLED</p>
                     </div><!-- end client-testimonial -->
                 </div><!-- end col-lg-3 -->
                 <div class="funfact-item">
                     <div class="funfact-inner-item">
                         <span class="la la-globe"></span>
-                        <h4 class="funfact__title counter">5452</h4>
-                        <p class="funfact__meta">foreign followers</p>
+                        <h4 class="funfact__title counter">27</h4>
+                        <p class="funfact__meta">ALUMNI PRESENCE</p>
                     </div><!-- end client-testimonial -->
                 </div><!-- end col-lg-3 -->
                 <div class="funfact-item">
                     <div class="funfact-inner-item">
                         <span class="la la-users"></span>
-                        <h4 class="funfact__title counter">9720</h4>
-                        <p class="funfact__meta">students enrolled</p>
+                        <h4 class="funfact__title counter">40</h4>
+                        <p class="funfact__meta">HIRING PARTNERS</p>
                     </div><!-- end client-testimonial -->
                 </div><!-- end col-lg-3 -->
                 <div class="funfact-item">
                     <div class="funfact-inner-item">
                         <span class="la la-certificate"></span>
-                        <h4 class="funfact__title counter">20</h4>
-                        <p class="funfact__meta">years of experience</p>
+                        <h4 class="funfact__title counter">15</h4>
+                        <p class="funfact__meta">YEARS EXPERIENCE</p>
                     </div><!-- end client-testimonial -->
                 </div><!-- end col-lg-3 -->
             </div><!-- end row -->
@@ -2403,7 +2403,60 @@
 ================================= -->
 
     <div class="section-divider"></div>
+    <section class="benefit-area benefit-area2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="benefit-img">
+                        <img src="images/img13.jpg" alt="">
+                        <img src="images/img14.jpg" alt="">
+                        <img src="images/img12.jpg" alt="">
+                        <img src="images/img11.jpg" alt="">
+                    </div><!-- end benefit-img -->
+                </div><!-- end col-lg-6 -->
+                <div class="col-lg-6">
+                    <div class="benefit-heading">
+                        <div class="section-heading">
+                            <h5 class="section__meta section__meta3">WELCOME TO LBIIHM</h5>
+                            <h2 class="section__title">A WORLD CLASS HOTEL MANAGEMENT INSTITUTE IN DELHI.</h2>
+                            <span class="section__divider"></span>
+                            <p class="section__desc">
+                                <strong>LBIIHM</strong> is an ISO 9001:2008 certified institute, established in the year 2003 to cater students in the field of <b>Hotel Management</b> and is now recognized as a centre of excellence in providing quality hospitality education. Since now the institute has endeavoured to stand apart and be counted among the best <i><strong>Hotel Management Institutes in India</strong></i>.
+                                <h5>- Dr. Kamal Kumar</h5>
+                                Message From Director | Director, LBIIHM
+                            </p>
+                            <br />
+                            <div class="row benefit-course-box">
+                                <div class="col-lg-4">
+                                    <div class="benefit-item benefit-item1">
+                                        <span class="la la-mouse-pointer benefit__icon"></span>
+                                        <h4 class="benefit__title">100,000 courses</h4>
+                                    </div><!-- end benefit-item -->
+                                </div><!-- end col-lg-4 -->
+                                <div class="col-lg-4">
+                                    <div class="benefit-item benefit-item2">
+                                        <span class="la la-bolt benefit__icon"></span>
+                                        <h4 class="benefit__title">Live Learning</h4>
+                                    </div><!-- end benefit-item -->
+                                </div><!-- end col-lg-4 -->
+                                <div class="col-lg-4">
+                                    <div class="benefit-item benefit-item3">
+                                        <span class="la la-users benefit__icon"></span>
+                                        <h4 class="benefit__title">Expert Teachers</h4>
+                                    </div><!-- end benefit-item -->
+                                </div><!-- end col-lg-4 -->
+                            </div><!-- end row -->
+                            <div class="get-start-btn">
+                                <a href="#" class="theme-btn theme-btn2">read director message</a>
+                            </div>
+                        </div><!-- end section-heading -->
+                    </div><!-- end benefit-heading -->
+                </div><!-- end col-lg-6 -->
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </section>
 
+    <div class="section-divider"></div>
     <!--======================================
         START SPEAKER AREA
 ======================================-->
