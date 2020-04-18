@@ -104,84 +104,68 @@
         <div class="header-menu-wrapper">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3">
+                    <div class="col-lg-2">
                         <div class="logo">
-                            <a href="index.html"> <img src="images/logo.png" alt="logo"></a>
+                            <a href="index"> <img src="images/logo.png" alt="logo"></a>
                         </div><!-- end logo -->
                     </div><!-- end col-lg-3-->
-                    <div class="col-lg-9 main-menu-wrapper">
+                    <div class="col-lg-10 main-menu-wrapper">
                         <div class="main-menu-content">
                             <nav>
                                 <ul>
                                     <li>
-                                        <a href="#">home <i class="fa fa-angle-down"></i></a>
+                                        <a href="#">home</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">About LBIIHM <i class="fa fa-angle-down"></i></a>
                                         <ul class="dropdown-menu-item">
-                                            <li><a href="index.html">home one</a></li>
-                                            <li><a href="index-2.html">home two</a></li>
-                                            <li><a href="index-3.html">home three <span class="new-page-badge">NEW</span></a></li>
+                                            <li><a href="about-us">About Us</a></li>
+                                            <li><a href="courses-detail">Why LBIIHM?</a></li>
+                                            <li><a href="events">Vision & Mission </a></li>
+                                            <li><a href="event-detail">Awards & Achievements</a></li>
+                                            <li><a href="event-detail">Message From CHAIRMAN</a></li>
+                                            <li><a href="event-detail">Message From DIRECTOR</a></li>
+                                            <li><a href="event-detail">Advisory Board Members</a></li>
+                                            <li><a href="event-detail">Our Network</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="#">pages <i class="fa fa-angle-down"></i></a>
+                                        <a href="#">Courses <i class="fa fa-angle-down"></i></a>
                                         <ul class="dropdown-menu-item">
-                                            <li><a href="about.html">about us</a></li>
-                                            <li><a href="case-studies.html">case studies</a></li>
-                                            <li><a href="single-case-study.html">single case study</a></li>
+                                            <li><a href="service">Our Courses</a></li>
                                             <li>
-                                                <a href="#">team <i class="fa fa-angle-right icon-right"></i></a>
+                                                <a href="#">Our Syllabus &nbsp; <i class="fa fa-angle-right"></i></a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="team-section.html">team grid</a></li>
-                                                    <li><a href="team-single.html">team detail</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="testimonial.html">testimonial</a></li>
-                                            <li><a href="faq.html">FAQS</a></li>
-                                            <li><a href="pricing.html">pricing</a></li>
-                                            <li><a href="error-404.html">404 error page</a></li>
-                                            <li>
-                                                <a href="#">user <i class="fa fa-angle-right icon-right"></i></a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="sign-up.html">sign up</a></li>
-                                                    <li><a href="login.html">login</a></li>
-                                                    <li><a href="recover.html">recover password</a></li>
+                                                <li><a href="#">B.SC. HAH</a></li>
+                                                <li><a href="#">M.SC. HAH</a></li>
+                                                <li><a href="#">DIPLOMA IN FOOD PRODUCTION</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="#">services <i class="fa fa-angle-down"></i></a>
-                                        <ul class="dropdown-menu-item">
-                                            <li><a href="service.html">services</a></li>
-                                            <li><a href="service-detail.html">service detail</a></li>
-                                        </ul>
+                                        <a href="#">Admissions</a>
                                     </li>
                                     <li>
-                                        <a href="#">portfolio <i class="fa fa-angle-down"></i></a>
-                                        <ul class="dropdown-menu-item">
-                                            <li><a href="portfolio-full-width.html">full width <span class="new-page-badge">NEW</span></a></li>
-                                            <li><a href="portfolio-grid.html">portfolio grid</a></li>
-                                            <li><a href="portfolio-detail.html">portfolio detail</a></li>
-                                        </ul>
+                                        <a href="#">Our Campus</a>
                                     </li>
                                     <li>
-                                        <a href="#">blog <i class="fa fa-angle-down"></i></a>
-                                        <ul class="dropdown-menu-item">
-                                            <li><a href="blog-full-width.html">blog full width</a></li>
-                                            <li><a href="blog-grid.html">blog grid</a></li>
-                                            <li><a href="blog-single.html">blog detail</a></li>
-                                        </ul>
+                                        <a href="#">Skilling India</a>
                                     </li>
                                     <li>
-                                        <a href="#">shop <i class="fa fa-angle-down"></i></a>
+                                        <a href="#">Placements <i class="fa fa-angle-down"></i></a>
                                         <ul class="dropdown-menu-item">
-                                            <li><a href="shop-home.html">shop home</a></li>
-                                            <li><a href="shop-sidebar.html">shop sidebar</a></li>
-                                            <li><a href="product-detail.html">product details</a></li>
-                                            <li><a href="cart.html">cart</a></li>
-                                            <li><a href="checkout.html">checkout</a></li>
+                                            <li><a href="training-placement">Training & Placements</a></li>
+                                            <li><a href="employability-training">Employability Training</a></li>
+                                            <li><a href="industrial-training">Industrial Training</a></li>
+                                            <li><a href="our-partners">Our Partners</a></li>
+                                            <li><a href="our-stars">Our Stars</a></li>
+                                            <li><a href="training-usa">USA TRAINING PROGRAM</a></li>
+                                            <li><a href="training-dubai">TRAINING IN DUBAI</a></li>
+                                            <li><a href="training-malaysia">TRAINING IN MALAYSIA</a></li>
                                         </ul>
-                                    </li>
-                                    <li><a href="contact-form.html">contact</a></li>
+                                    </li>                                   
+                                    <li><a href="contact-form">Contact Us</a></li>
                                 </ul>
                             </nav>
                             <div class="logo-right-button">
@@ -224,74 +208,63 @@
             <div class="side-menu-wrap">
                 <ul class="side-menu-ul">
                     <li class="sidenav__item">
-                        <a href="index.html">home</a>
+                        <a href="./">Home</a>
+                    </li>
+                    <li class="sidenav__item">
+                        <a href="#">About LBIIHM</a>
                         <span class="menu-plus-icon"></span>
-                        <ul class="side-sub-menu" style="display: none;">
-                            <li><a href="index.html">Home one</a></li>
-                            <li><a href="index-2.html">Home two</a></li>
-                            <li><a href="index-3.html">Home three <span class="new-page-badge">NEW</span></a></li>
+                        <ul class="side-sub-menu" >
+                            <li><a href="about-us">About Us</a></li>
+                            <li><a href="courses-detail">Why LBIIHM?</a></li>
+                            <li><a href="events">Vision & Mission </a></li>
+                            <li><a href="event-detail">Awards & Achievements</a></li>
+                            <li><a href="event-detail">Message From CHAIRMAN</a></li>
+                            <li><a href="event-detail">Message From DIRECTOR</a></li>
+                            <li><a href="event-detail">Advisory Board Members</a></li>
+                            <li><a href="event-detail">Our Network</a></li>
                         </ul>
                     </li>
                     <li class="sidenav__item">
-                        <a href="#">pages</a>
+                        <a href="#">Courses</a>
                         <span class="menu-plus-icon"></span>
-                        <ul class="side-sub-menu" style="">
-                            <li><a href="about.html">about us</a></li>
-                            <li><a href="case-studies.html">case studies</a></li>
-                            <li><a href="single-case-study.html">single case study</a></li>
-                            <li><a href="team-section.html">team grid</a></li>
-                            <li><a href="team-single.html">team detail</a></li>
-                            <li><a href="testimonial.html">testimonial</a></li>
-                            <li><a href="faq.html">FAQS</a></li>
-                            <li><a href="pricing.html">pricing</a></li>
-                            <li><a href="error-404.html">404 error page</a></li>
-                            <li><a href="sign-up.html">sign up</a></li>
-                            <li><a href="login.html">login</a></li>
-                            <li><a href="recover.html">recover password</a></li>
+                        <ul class="side-sub-menu">
+                            <li class="sidenav__item"><a href="service">Our Courses</a></li>
+                            <li class="sidenav__item">
+                                <a href="#">Our Syllabus</a>
+                                <span class="menu-plus-icon"></span>
+                                <ul class="side-sub-menu">
+                                <li><a href="#">B.SC. HAH</a></li>
+                                <li><a href="#">M.SC. HAH</a></li>
+                                <li><a href="#">DIPLOMA IN FOOD PRODUCTION</a></li>
+                                </ul>
+                            </li>
                         </ul>
                     </li>
                     <li class="sidenav__item">
-                        <a href="#">services</a>
+                        <a href="#">Admissions</a>
+                    </li>
+                    <li class="sidenav__item">
+                        <a href="#">Our Campus</a>
+                    </li>
+                    <li class="sidenav__item">
+                        <a href="#">Skilling India</a>
+                    </li>
+                    <li class="sidenav__item">
+                        <a href="portfolio-grid">Placements</a>
                         <span class="menu-plus-icon"></span>
-                        <ul class="side-sub-menu" style="">
-                            <li><a href="service.html">services</a></li>
-                            <li><a href="service-detail.html">service detail</a></li>
+                        <ul class="side-sub-menu">
+                            <li><a href="training-placement">Training & Placements</a></li>
+                            <li><a href="employability-training">Employability Training</a></li>
+                            <li><a href="industrial-training">Industrial Training</a></li>
+                            <li><a href="our-partners">Our Partners</a></li>
+                            <li><a href="our-stars">Our Stars</a></li>
+                            <li><a href="training-usa">USA TRAINING PROGRAM</a></li>
+                            <li><a href="training-dubai">TRAINING IN DUBAI</a></li>
+                            <li><a href="training-malaysia">TRAINING IN MALAYSIA</a></li>
                         </ul>
                     </li>
                     <li class="sidenav__item">
-                        <a href="portfolio-grid.html">portfolio</a>
-                        <span class="menu-plus-icon"></span>
-                        <ul class="side-sub-menu" style="">
-                            <li><a href="portfolio-full-width.html">full width <span class="new-page-badge">NEW</span></a></li>
-                            <li><a href="portfolio-grid.html">portfolio grid</a></li>
-                            <li><a href="portfolio-detail.html">portfolio detail</a></li>
-                        </ul>
-                    </li>
-                    <li class="sidenav__item">
-                        <a href="blog-grid.html">blog</a>
-                        <span class="menu-plus-icon"></span>
-                        <ul class="side-sub-menu" style="">
-                            <li><a href="blog-full-width.html">blog full width</a></li>
-                            <li><a href="blog-grid.html">blog grid</a></li>
-                            <li><a href="blog-single.html">blog detail</a></li>
-                        </ul>
-                    </li>
-                    <li class="sidenav__item">
-                        <a href="shop-home.html">shop</a>
-                        <span class="menu-plus-icon"></span>
-                        <ul class="side-sub-menu" style="">
-                            <li><a href="shop-home.html">shop home</a></li>
-                            <li><a href="shop-sidebar.html">shop sidebar</a></li>
-                            <li><a href="product-detail.html">product details</a></li>
-                            <li><a href="cart.html">cart</a></li>
-                            <li><a href="checkout.html">checkout</a></li>
-                        </ul>
-                    </li>
-                    <li class="sidenav__item">
-                        <a href="contact-form.html">contact</a>
-                    </li>
-                    <li class="sidenav__item sidenav__item2 text-center">
-                        <a href="sign-up.html"><i class="fa fa-sign-in-alt"></i> sign up</a>
+                        <a href="contact-form">Contact Us</a>
                     </li>
                 </ul>
             </div><!-- end side-menu-wrap -->
@@ -318,7 +291,7 @@
                                             <br>industry's standard dummy text ever sinceprinting and typesetting industry.
                                         </p>
                                         <div class="slider-promo-btn">
-                                            <a href="admission.html" class="theme-btn">let's join now</a>
+                                            <a href="admission" class="theme-btn">let's join now</a>
                                             <a class="mfp-iframe video-play-btn" href="https://www.youtube.com/watch?v=cRXm1p-CNyk">
                                                 Watch Preview <span class="la la-play"></span>
                                             </a>
@@ -342,7 +315,7 @@
                                             <br>industry's standard dummy text ever sinceprinting and typesetting industry.
                                         </p>
                                         <div class="slider-promo-btn justify-content-center">
-                                            <a href="admission.html" class="theme-btn">get started now</a>
+                                            <a href="admission" class="theme-btn">get started now</a>
                                             <a class="mfp-iframe video-play-btn" href="https://www.youtube.com/watch?v=cRXm1p-CNyk">
                                                 Watch Preview <span class="la la-play"></span>
                                             </a>
@@ -369,7 +342,7 @@
                                             <a class="mfp-iframe video-play-btn" href="https://www.youtube.com/watch?v=cRXm1p-CNyk">
                                                 <span class="la la-play"></span> Watch Preview
                                             </a>
-                                            <a href="admission.html" class="theme-btn">get enrolled now</a>
+                                            <a href="admission" class="theme-btn">get enrolled now</a>
                                         </div>
                                     </div>
                                 </div><!-- col-md-7 -->
@@ -571,7 +544,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">bestseller</span>
                                                 </div>
@@ -582,7 +555,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">WordPress for Beginners – Master WordPress</a>
+                                                    <a href="course-details">WordPress for Beginners – Master WordPress</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">alex smith</a>
@@ -624,7 +597,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -632,7 +605,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Learn Ethical Hacking from Scratch Your Stepping</a>
+                                                    <a href="course-details">Learn Ethical Hacking from Scratch Your Stepping</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">brad travesy</a>
@@ -674,7 +647,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img10.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img10.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">highest rated</span>
                                                 </div>
@@ -685,7 +658,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Microsoft SQL Server 2019 for Everyone</a>
+                                                    <a href="course-details">Microsoft SQL Server 2019 for Everyone</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">mark hardson</a>
@@ -727,7 +700,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -735,7 +708,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">User Experience Design - Adobe XD UI UX Design</a>
+                                                    <a href="course-details">User Experience Design - Adobe XD UI UX Design</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">kamran paul</a>
@@ -777,7 +750,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">bestseller</span>
                                                 </div>
@@ -788,7 +761,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">The Complete Digital finance Marketing Course</a>
+                                                    <a href="course-details">The Complete Digital finance Marketing Course</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">jose purtila</a>
@@ -830,7 +803,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -838,7 +811,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Complete Python Bootcamp: Go from zero to hero</a>
+                                                    <a href="course-details">Complete Python Bootcamp: Go from zero to hero</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">noelle travesy</a>
@@ -884,7 +857,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -892,7 +865,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">WordPress for Beginners – Master WordPress</a>
+                                                    <a href="course-details">WordPress for Beginners – Master WordPress</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">alex smith</a>
@@ -934,7 +907,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">bestseller</span>
                                                 </div>
@@ -945,7 +918,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Learn Ethical Hacking from Scratch Your Stepping</a>
+                                                    <a href="course-details">Learn Ethical Hacking from Scratch Your Stepping</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">brad travesy</a>
@@ -987,7 +960,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">highest rated</span>
                                                 </div>
@@ -998,7 +971,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Microsoft SQL Server 2019 for Everyone</a>
+                                                    <a href="course-details">Microsoft SQL Server 2019 for Everyone</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">mark hardson</a>
@@ -1040,7 +1013,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img10.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img10.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -1048,7 +1021,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">User Experience Design - Adobe XD UI UX Design</a>
+                                                    <a href="course-details">User Experience Design - Adobe XD UI UX Design</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">kamran paul</a>
@@ -1090,7 +1063,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">bestseller</span>
                                                 </div>
@@ -1101,7 +1074,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">The Complete Digital finance Marketing Course</a>
+                                                    <a href="course-details">The Complete Digital finance Marketing Course</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">jose purtila</a>
@@ -1143,7 +1116,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -1151,7 +1124,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Complete Python Bootcamp: Go from zero to hero</a>
+                                                    <a href="course-details">Complete Python Bootcamp: Go from zero to hero</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">noelle travesy</a>
@@ -1197,7 +1170,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -1205,7 +1178,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">WordPress for Beginners – Master WordPress</a>
+                                                    <a href="course-details">WordPress for Beginners – Master WordPress</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">alex smith</a>
@@ -1247,7 +1220,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">bestseller</span>
                                                 </div>
@@ -1258,7 +1231,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Learn Ethical Hacking from Scratch Your Stepping</a>
+                                                    <a href="course-details">Learn Ethical Hacking from Scratch Your Stepping</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">brad travesy</a>
@@ -1300,7 +1273,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">highest rated</span>
                                                 </div>
@@ -1311,7 +1284,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Microsoft SQL Server 2019 for Everyone</a>
+                                                    <a href="course-details">Microsoft SQL Server 2019 for Everyone</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">mark hardson</a>
@@ -1353,7 +1326,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -1361,7 +1334,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">User Experience Design - Adobe XD UI UX Design</a>
+                                                    <a href="course-details">User Experience Design - Adobe XD UI UX Design</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">kamran paul</a>
@@ -1403,7 +1376,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">bestseller</span>
                                                 </div>
@@ -1414,7 +1387,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">The Complete Digital finance Marketing Course</a>
+                                                    <a href="course-details">The Complete Digital finance Marketing Course</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">jose purtila</a>
@@ -1456,7 +1429,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -1464,7 +1437,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Complete Python Bootcamp: Go from zero to hero</a>
+                                                    <a href="course-details">Complete Python Bootcamp: Go from zero to hero</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">noelle travesy</a>
@@ -1510,7 +1483,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">bestseller</span>
                                                 </div>
@@ -1521,7 +1494,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">WordPress for Beginners – Master WordPress</a>
+                                                    <a href="course-details">WordPress for Beginners – Master WordPress</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">alex smith</a>
@@ -1563,7 +1536,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -1571,7 +1544,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Learn Ethical Hacking from Scratch Your Stepping</a>
+                                                    <a href="course-details">Learn Ethical Hacking from Scratch Your Stepping</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">brad travesy</a>
@@ -1613,7 +1586,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img10.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img10.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">highest rated</span>
                                                 </div>
@@ -1624,7 +1597,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Microsoft SQL Server 2019 for Everyone</a>
+                                                    <a href="course-details">Microsoft SQL Server 2019 for Everyone</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">mark hardson</a>
@@ -1666,7 +1639,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -1674,7 +1647,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">User Experience Design - Adobe XD UI UX Design</a>
+                                                    <a href="course-details">User Experience Design - Adobe XD UI UX Design</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">kamran paul</a>
@@ -1716,7 +1689,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">bestseller</span>
                                                 </div>
@@ -1727,7 +1700,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">The Complete Digital finance Marketing Course</a>
+                                                    <a href="course-details">The Complete Digital finance Marketing Course</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">jose purtila</a>
@@ -1769,7 +1742,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -1777,7 +1750,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Complete Python Bootcamp: Go from zero to hero</a>
+                                                    <a href="course-details">Complete Python Bootcamp: Go from zero to hero</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">noelle travesy</a>
@@ -1823,7 +1796,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">bestseller</span>
                                                 </div>
@@ -1834,7 +1807,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">WordPress for Beginners – Master WordPress</a>
+                                                    <a href="course-details">WordPress for Beginners – Master WordPress</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">alex smith</a>
@@ -1876,7 +1849,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -1884,7 +1857,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Learn Ethical Hacking from Scratch Your Stepping</a>
+                                                    <a href="course-details">Learn Ethical Hacking from Scratch Your Stepping</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">brad travesy</a>
@@ -1926,7 +1899,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">highest rated</span>
                                                 </div>
@@ -1937,7 +1910,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Microsoft SQL Server 2019 for Everyone</a>
+                                                    <a href="course-details">Microsoft SQL Server 2019 for Everyone</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">mark hardson</a>
@@ -1979,7 +1952,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img10.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img10.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -1987,7 +1960,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">User Experience Design - Adobe XD UI UX Design</a>
+                                                    <a href="course-details">User Experience Design - Adobe XD UI UX Design</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">kamran paul</a>
@@ -2029,7 +2002,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                                 <div class="course-tooltip">
                                                     <span class="tooltip-label">bestseller</span>
                                                 </div>
@@ -2040,7 +2013,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">The Complete Digital finance Marketing Course</a>
+                                                    <a href="course-details">The Complete Digital finance Marketing Course</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">jose purtila</a>
@@ -2082,7 +2055,7 @@
                                     <div class="col-lg-4">
                                         <div class="course-item">
                                             <div class="course-img">
-                                                <a href="course-details.html" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
+                                                <a href="course-details" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
                                             </div><!-- end course-img -->
                                             <div class="course-content">
                                                 <p class="course__label">
@@ -2090,7 +2063,7 @@
                                                     <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                                 </p>
                                                 <h3 class="course__title">
-                                                    <a href="course-details.html">Complete Python Bootcamp: Go from zero to hero</a>
+                                                    <a href="course-details">Complete Python Bootcamp: Go from zero to hero</a>
                                                 </h3>
                                                 <p class="course__author">
                                                     <a href="#">noelle travesy</a>
@@ -2137,7 +2110,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="button-shared text-center">
-                            <a href="course-grid.html" class="theme-btn">browse all Courses</a>
+                            <a href="course-grid" class="theme-btn">browse all Courses</a>
                         </div><!-- end button-shared -->
                     </div><!-- end col-lg-12 -->
                 </div><!-- end row -->
@@ -2173,7 +2146,7 @@
                             <div class="course-block course-carousel">
                                 <div class="course-item">
                                     <div class="course-img">
-                                        <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
+                                        <a href="course-details" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                     </div><!-- end course-img -->
                                     <div class="course-content">
                                         <p class="course__label">
@@ -2181,7 +2154,7 @@
                                             <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                         </p>
                                         <h3 class="course__title">
-                                            <a href="course-details.html">User Experience Design - Adobe XD UI UX Design</a>
+                                            <a href="course-details">User Experience Design - Adobe XD UI UX Design</a>
                                         </h3>
                                         <p class="course__author">
                                             <a href="#">kamran paul</a>
@@ -2213,7 +2186,7 @@
                                 </div><!-- end course-item -->
                                 <div class="course-item">
                                     <div class="course-img">
-                                        <a href="course-details.html" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
+                                        <a href="course-details" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
                                         <div class="course-tooltip">
                                             <span class="tooltip-label">bestseller</span>
                                         </div>
@@ -2224,7 +2197,7 @@
                                             <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                         </p>
                                         <h3 class="course__title">
-                                            <a href="course-details.html">The Complete Digital finance Marketing Course</a>
+                                            <a href="course-details">The Complete Digital finance Marketing Course</a>
                                         </h3>
                                         <p class="course__author">
                                             <a href="#">jose purtila</a>
@@ -2256,7 +2229,7 @@
                                 </div><!-- end course-item -->
                                 <div class="course-item">
                                     <div class="course-img">
-                                        <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
+                                        <a href="course-details" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                     </div><!-- end course-img -->
                                     <div class="course-content">
                                         <p class="course__label">
@@ -2264,7 +2237,7 @@
                                             <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                         </p>
                                         <h3 class="course__title">
-                                            <a href="course-details.html">Complete Python Bootcamp: Go from zero to hero</a>
+                                            <a href="course-details">Complete Python Bootcamp: Go from zero to hero</a>
                                         </h3>
                                         <p class="course__author">
                                             <a href="#">noelle travesy</a>
@@ -2296,7 +2269,7 @@
                                 </div><!-- end course-item -->
                                 <div class="course-item">
                                     <div class="course-img">
-                                        <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
+                                        <a href="course-details" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                     </div><!-- end course-img -->
                                     <div class="course-content">
                                         <p class="course__label">
@@ -2304,7 +2277,7 @@
                                             <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                         </p>
                                         <h3 class="course__title">
-                                            <a href="course-details.html">Complete Python Bootcamp: Go from zero to hero</a>
+                                            <a href="course-details">Complete Python Bootcamp: Go from zero to hero</a>
                                         </h3>
                                         <p class="course__author">
                                             <a href="#">noelle travesy</a>
@@ -2336,7 +2309,7 @@
                                 </div><!-- end course-item -->
                                 <div class="course-item">
                                     <div class="course-img">
-                                        <a href="course-details.html" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
+                                        <a href="course-details" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
                                         <div class="course-tooltip">
                                             <span class="tooltip-label">highest rated</span>
                                         </div>
@@ -2347,7 +2320,7 @@
                                             <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                         </p>
                                         <h3 class="course__title">
-                                            <a href="course-details.html">Complete Python Bootcamp: Go from zero to hero</a>
+                                            <a href="course-details">Complete Python Bootcamp: Go from zero to hero</a>
                                         </h3>
                                         <p class="course__author">
                                             <a href="#">noelle travesy</a>
@@ -2459,13 +2432,13 @@
                         </div>
                         <div class="speaker-detail">
                             <div class="speaker-title-box">
-                                <h3 class="speaker__title"><a href="teacher-detail.html">alex smith</a></h3>
+                                <h3 class="speaker__title"><a href="teacher-detail">alex smith</a></h3>
                                 <p class="speaker__meta">Teacher</p>
                                 <p class="speaker__text">
                                     Pellentesque tellus arcu, laoreet volutpavenenatis molest
                                     commodo lorem lectus pretium vehicula.
                                 </p>
-                                <a href="teacher-detail.html" class="speaker__link">view profile</a>
+                                <a href="teacher-detail" class="speaker__link">view profile</a>
                             </div>
                         </div>
                     </div><!-- end speaker-item -->
@@ -2483,13 +2456,13 @@
                         </div>
                         <div class="speaker-detail">
                             <div class="speaker-title-box">
-                                <h3 class="speaker__title"><a href="teacher-detail.html">rose taylor</a></h3>
+                                <h3 class="speaker__title"><a href="teacher-detail">rose taylor</a></h3>
                                 <p class="speaker__meta">Teacher</p>
                                 <p class="speaker__text">
                                     Pellentesque tellus arcu, laoreet volutpavenenatis molest
                                     commodo lorem lectus pretium vehicula.
                                 </p>
-                                <a href="teacher-detail.html" class="speaker__link">view profile</a>
+                                <a href="teacher-detail" class="speaker__link">view profile</a>
                             </div>
                         </div>
                     </div><!-- end speaker-item -->
@@ -2507,13 +2480,13 @@
                         </div>
                         <div class="speaker-detail">
                             <div class="speaker-title-box">
-                                <h3 class="speaker__title"><a href="teacher-detail.html">jef collin</a></h3>
+                                <h3 class="speaker__title"><a href="teacher-detail">jef collin</a></h3>
                                 <p class="speaker__meta">Teacher</p>
                                 <p class="speaker__text">
                                     Pellentesque tellus arcu, laoreet volutpavenenatis molest
                                     commodo lorem lectus pretium vehicula.
                                 </p>
-                                <a href="teacher-detail.html" class="speaker__link">view profile</a>
+                                <a href="teacher-detail" class="speaker__link">view profile</a>
                             </div>
                         </div>
                     </div><!-- end speaker-item -->
@@ -2531,13 +2504,13 @@
                         </div>
                         <div class="speaker-detail">
                             <div class="speaker-title-box">
-                                <h3 class="speaker__title"><a href="teacher-detail.html">mike hardson</a></h3>
+                                <h3 class="speaker__title"><a href="teacher-detail">mike hardson</a></h3>
                                 <p class="speaker__meta">Teacher</p>
                                 <p class="speaker__text">
                                     Pellentesque tellus arcu, laoreet volutpavenenatis molest
                                     commodo lorem lectus pretium vehicula.
                                 </p>
-                                <a href="teacher-detail.html" class="speaker__link">view profile</a>
+                                <a href="teacher-detail" class="speaker__link">view profile</a>
                             </div>
                         </div>
                     </div><!-- end speaker-item -->
@@ -2555,13 +2528,13 @@
                         </div>
                         <div class="speaker-detail">
                             <div class="speaker-title-box">
-                                <h3 class="speaker__title"><a href="teacher-detail.html">john smith</a></h3>
+                                <h3 class="speaker__title"><a href="teacher-detail">john smith</a></h3>
                                 <p class="speaker__meta">Teacher</p>
                                 <p class="speaker__text">
                                     Pellentesque tellus arcu, laoreet volutpavenenatis molest
                                     commodo lorem lectus pretium vehicula.
                                 </p>
-                                <a href="teacher-detail.html" class="speaker__link">view profile</a>
+                                <a href="teacher-detail" class="speaker__link">view profile</a>
                             </div>
                         </div>
                     </div><!-- end speaker-item -->
@@ -2579,13 +2552,13 @@
                         </div>
                         <div class="speaker-detail">
                             <div class="speaker-title-box">
-                                <h3 class="speaker__title"><a href="teacher-detail.html">kevin martin</a></h3>
+                                <h3 class="speaker__title"><a href="teacher-detail">kevin martin</a></h3>
                                 <p class="speaker__meta">Teacher</p>
                                 <p class="speaker__text">
                                     Pellentesque tellus arcu, laoreet volutpavenenatis molest
                                     commodo lorem lectus pretium vehicula.
                                 </p>
-                                <a href="teacher-detail.html" class="speaker__link">view profile</a>
+                                <a href="teacher-detail" class="speaker__link">view profile</a>
                             </div>
                         </div>
                     </div><!-- end speaker-item -->
@@ -2594,7 +2567,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="button-shared text-center">
-                        <a href="teachers.html" class="theme-btn">view all teachers</a>
+                        <a href="teachers" class="theme-btn">view all teachers</a>
                     </div><!-- end button-shared -->
                 </div><!-- end col-lg-12 -->
             </div><!-- end row -->
@@ -3200,7 +3173,7 @@
                             </div><!-- end blog-post-img -->
                             <div class="post-body">
                                 <div class="blog-title">
-                                    <a href="blog-single.html" class="blog__title">
+                                    <a href="blog-single" class="blog__title">
                                         User Experience Design Essentials
                                     </a>
                                 </div>
@@ -3220,7 +3193,7 @@
                             </div><!-- end blog-post-img -->
                             <div class="post-body">
                                 <div class="blog-title">
-                                    <a href="blog-single.html" class="blog__title">
+                                    <a href="blog-single" class="blog__title">
                                         Ultimate Photoshop Training: From Beginner
                                     </a>
                                 </div>
@@ -3240,7 +3213,7 @@
                             </div><!-- end blog-post-img -->
                             <div class="post-body">
                                 <div class="blog-title">
-                                    <a href="blog-single.html" class="blog__title">
+                                    <a href="blog-single" class="blog__title">
                                         Sales Training: Practical Techniques
                                     </a>
                                 </div>
@@ -3260,7 +3233,7 @@
                             </div><!-- end blog-post-img -->
                             <div class="post-body">
                                 <div class="blog-title">
-                                    <a href="blog-single.html" class="blog__title">
+                                    <a href="blog-single" class="blog__title">
                                         Complete Financial Analyst Course
                                     </a>
                                 </div>
@@ -3280,7 +3253,7 @@
                             </div><!-- end blog-post-img -->
                             <div class="post-body">
                                 <div class="blog-title">
-                                    <a href="blog-single.html" class="blog__title">
+                                    <a href="blog-single" class="blog__title">
                                         Complete Financial Analyst Course
                                     </a>
                                 </div>
@@ -3300,7 +3273,7 @@
                             </div><!-- end blog-post-img -->
                             <div class="post-body">
                                 <div class="blog-title">
-                                    <a href="blog-single.html" class="blog__title">
+                                    <a href="blog-single" class="blog__title">
                                         Complete Financial Analyst Course
                                     </a>
                                 </div>
@@ -3320,7 +3293,7 @@
                             </div><!-- end blog-post-img -->
                             <div class="post-body">
                                 <div class="blog-title">
-                                    <a href="blog-single.html" class="blog__title">
+                                    <a href="blog-single" class="blog__title">
                                         Complete Financial Analyst Course
                                     </a>
                                 </div>
@@ -3382,7 +3355,7 @@
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
                     <div class="footer-widget">
-                        <a href="index.html">
+                        <a href="index">
                             <img src="assets/images/logo2.png" alt="footer logo" class="footer__logo">
                         </a>
                         <ul class="footer-address">

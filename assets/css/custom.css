@@ -1,3 +1,6 @@
+/* .main-menu-content nav ul li .dropdown-menu-item li a{
+    text-transform: capitalize;
+} */
 .slider-area {
     top: 45px !important;
 }
@@ -618,7 +621,7 @@
     position: absolute;
     top: 80px;
     left: 0;
-    width: 200px;
+    width: 250px;
     background-color: #fff;
     padding-top: 12px;
     padding-bottom: 12px;
@@ -749,7 +752,7 @@
 }
 
 .main-menu-content nav ul li .dropdown-menu-item li:hover .sub-menu {
-    left: 200px;
+    left: 250px;
     opacity: 1;
     visibility: visible
 }
