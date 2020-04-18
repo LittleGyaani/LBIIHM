@@ -12,19 +12,19 @@
     <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:100,200,300,400,500,600,700&display=swap" rel="stylesheet">
 
     <!-- Favicon -->
-    <link rel="icon" sizes="16x16" href="images/favicon.png">
+    <link rel="icon" sizes="16x16" href="assets/images/favicon.png">
 
     <!-- inject:css -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/line-awesome.css">
-    <link rel="stylesheet" href="css/animate.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/jquery.countdown.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/fancybox.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/line-awesome.css">
+    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="assets/css/jquery.countdown.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/fancybox.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     <!-- end inject -->
 </head>
 <body>
@@ -74,7 +74,7 @@
                                         <ul class="dropdown-menu-item shopping-cart-list">
                                             <li>
                                                 <div class="cart-item">
-                                                    <img src="images/small-img.jpg" alt="product">
+                                                    <img src="assets/images/small-img.jpg" alt="product">
                                                     <div class="item__info">
                                                         <a href="shopping-cart.html">
                                                             The Complete Financial Analyst Course 2019
@@ -87,7 +87,7 @@
                                             </li>
                                             <li>
                                                 <div class="cart-item">
-                                                    <img src="images/small-img.jpg" alt="product">
+                                                    <img src="assets/images/small-img.jpg" alt="product">
                                                     <div class="item__info">
                                                         <a href="shopping-cart.html">
                                                             The Complete Financial Analyst Course 2019
@@ -127,7 +127,7 @@
                 <div class="row align-items-center main-menu-content">
                     <div class="col-lg-3">
                         <div class="logo-box">
-                            <a href="index.html" class="logo" title="Aduca"><img src="images/logo.png" alt="logo"></a>
+                            <a href="index.html" class="logo" title="Aduca"><img src="assets/images/logo.png" alt="logo"></a>
                             <div class="header-category">
                                 <ul>
                                     <li>
@@ -546,7 +546,7 @@
         <div class="row category-wrapper">
             <div class="col-lg-4">
                 <div class="category-item">
-                    <img src="images/img1.jpg" alt="">
+                    <img src="assets/images/img1.jpg" alt="">
                     <div class="category-content">
                         <h3 class="cat__title">business</h3>
                         <p class="cat__meta">9 courses</p>
@@ -556,7 +556,7 @@
             </div><!-- end col-lg-4 -->
             <div class="col-lg-4">
                 <div class="category-item">
-                    <img src="images/img2.jpg" alt="">
+                    <img src="assets/images/img2.jpg" alt="">
                     <div class="category-content">
                         <h3 class="cat__title">design</h3>
                         <p class="cat__meta">7 courses</p>
@@ -566,7 +566,7 @@
             </div><!-- end col-lg-4 -->
             <div class="col-lg-4">
                 <div class="category-item">
-                    <img src="images/img3.jpg" alt="">
+                    <img src="assets/images/img3.jpg" alt="">
                     <div class="category-content">
                         <h3 class="cat__title">development</h3>
                         <p class="cat__meta">8 courses</p>
@@ -576,7 +576,7 @@
             </div><!-- end col-lg-4 -->
             <div class="col-lg-4">
                 <div class="category-item">
-                    <img src="images/img4.jpg" alt="">
+                    <img src="assets/images/img4.jpg" alt="">
                     <div class="category-content">
                         <h3 class="cat__title">health & fitness</h3>
                         <p class="cat__meta">6 courses</p>
@@ -586,7 +586,7 @@
             </div><!-- end col-lg-4 -->
             <div class="col-lg-4">
                 <div class="category-item">
-                    <img src="images/img5.jpg" alt="">
+                    <img src="assets/images/img5.jpg" alt="">
                     <div class="category-content">
                         <h3 class="cat__title">photography</h3>
                         <p class="cat__meta">7 courses</p>
@@ -596,7 +596,7 @@
             </div><!-- end col-lg-4 -->
             <div class="col-lg-4">
                 <div class="category-item">
-                    <img src="images/img6.jpg" alt="">
+                    <img src="assets/images/img6.jpg" alt="">
                     <div class="category-content">
                         <h3 class="cat__title">math</h3>
                         <p class="cat__meta">8 courses</p>
@@ -671,7 +671,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img8.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">bestseller</span>
                                             </div>
@@ -724,7 +724,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img9.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -774,7 +774,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img10.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img10.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">highest rated</span>
                                             </div>
@@ -827,7 +827,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img11.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -877,7 +877,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img12.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">bestseller</span>
                                             </div>
@@ -930,7 +930,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img13.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -984,7 +984,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img13.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -1034,7 +1034,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img12.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">bestseller</span>
                                             </div>
@@ -1087,7 +1087,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img11.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">highest rated</span>
                                             </div>
@@ -1140,7 +1140,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img10.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img10.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -1190,7 +1190,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img9.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">bestseller</span>
                                             </div>
@@ -1243,7 +1243,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img8.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -1297,7 +1297,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img11.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -1347,7 +1347,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img12.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">bestseller</span>
                                             </div>
@@ -1400,7 +1400,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img9.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">highest rated</span>
                                             </div>
@@ -1453,7 +1453,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img8.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -1503,7 +1503,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img12.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">bestseller</span>
                                             </div>
@@ -1556,7 +1556,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img13.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -1610,7 +1610,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img8.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">bestseller</span>
                                             </div>
@@ -1663,7 +1663,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img9.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -1713,7 +1713,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img10.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img10.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">highest rated</span>
                                             </div>
@@ -1766,7 +1766,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img11.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -1816,7 +1816,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img12.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">bestseller</span>
                                             </div>
@@ -1869,7 +1869,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img13.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img13.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -1924,7 +1924,7 @@
                                     <div class="course-item">
                                         <div class="course-img">
                                             <a href="course-details.html" class="course__img"><img
-                                                    src="images/img13.jpg" alt=""></a>
+                                                    src="assets/images/img13.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">bestseller</span>
                                             </div>
@@ -1977,7 +1977,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img12.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -2027,7 +2027,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img11.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">highest rated</span>
                                             </div>
@@ -2080,7 +2080,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img10.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img10.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -2130,7 +2130,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img9.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                             <div class="course-tooltip">
                                                 <span class="tooltip-label">bestseller</span>
                                             </div>
@@ -2183,7 +2183,7 @@
                                 <div class="col-lg-4">
                                     <div class="course-item">
                                         <div class="course-img">
-                                            <a href="course-details.html" class="course__img"><img src="images/img8.jpg" alt=""></a>
+                                            <a href="course-details.html" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
                                         </div><!-- end course-img -->
                                         <div class="course-content">
                                             <p class="course__label">
@@ -2274,7 +2274,7 @@
                         <div class="course-block course-carousel">
                             <div class="course-item">
                                 <div class="course-img">
-                                    <a href="course-details.html" class="course__img"><img src="images/img9.jpg" alt=""></a>
+                                    <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                 </div><!-- end course-img -->
                                 <div class="course-content">
                                     <p class="course__label">
@@ -2314,7 +2314,7 @@
                             </div><!-- end course-item -->
                             <div class="course-item">
                                 <div class="course-img">
-                                    <a href="course-details.html" class="course__img"><img src="images/img11.jpg" alt=""></a>
+                                    <a href="course-details.html" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
                                     <div class="course-tooltip">
                                         <span class="tooltip-label">bestseller</span>
                                     </div>
@@ -2357,7 +2357,7 @@
                             </div><!-- end course-item -->
                             <div class="course-item">
                                 <div class="course-img">
-                                    <a href="course-details.html" class="course__img"><img src="images/img12.jpg" alt=""></a>
+                                    <a href="course-details.html" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
                                 </div><!-- end course-img -->
                                 <div class="course-content">
                                     <p class="course__label">
@@ -2397,7 +2397,7 @@
                             </div><!-- end course-item -->
                             <div class="course-item">
                                 <div class="course-img">
-                                    <a href="course-details.html" class="course__img"><img src="images/img9.jpg" alt=""></a>
+                                    <a href="course-details.html" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
                                 </div><!-- end course-img -->
                                 <div class="course-content">
                                     <p class="course__label">
@@ -2437,7 +2437,7 @@
                             </div><!-- end course-item -->
                             <div class="course-item">
                                 <div class="course-img">
-                                    <a href="course-details.html" class="course__img"><img src="images/img8.jpg" alt=""></a>
+                                    <a href="course-details.html" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
                                     <div class="course-tooltip">
                                         <span class="tooltip-label">highest rated</span>
                                     </div>
@@ -2550,7 +2550,7 @@
             <div class="col-lg-4">
                 <div class="speaker-item speaker-item1">
                     <div class="speaker-img-box">
-                        <img src="images/team.jpg" alt="">
+                        <img src="assets/images/team.jpg" alt="">
                         <ul class="speaker__profile">
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -2574,7 +2574,7 @@
             <div class="col-lg-4">
                 <div class="speaker-item speaker-item2">
                     <div class="speaker-img-box">
-                        <img src="images/team2.jpg" alt="">
+                        <img src="assets/images/team2.jpg" alt="">
                         <ul class="speaker__profile">
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -2598,7 +2598,7 @@
             <div class="col-lg-4">
                 <div class="speaker-item speaker-item3">
                     <div class="speaker-img-box">
-                        <img src="images/team3.jpg" alt="">
+                        <img src="assets/images/team3.jpg" alt="">
                         <ul class="speaker__profile">
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -2622,7 +2622,7 @@
             <div class="col-lg-4">
                 <div class="speaker-item speaker-item4">
                     <div class="speaker-img-box">
-                        <img src="images/team4.jpg" alt="">
+                        <img src="assets/images/team4.jpg" alt="">
                         <ul class="speaker__profile">
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -2646,7 +2646,7 @@
             <div class="col-lg-4">
                 <div class="speaker-item speaker-item5">
                     <div class="speaker-img-box">
-                        <img src="images/team5.jpg" alt="">
+                        <img src="assets/images/team5.jpg" alt="">
                         <ul class="speaker__profile">
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -2670,7 +2670,7 @@
             <div class="col-lg-4">
                 <div class="speaker-item speaker-item6">
                     <div class="speaker-img-box">
-                        <img src="images/team6.jpg" alt="">
+                        <img src="assets/images/team6.jpg" alt="">
                         <ul class="speaker__profile">
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -2726,7 +2726,7 @@
                 <div class="testimonial-wrap">
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Kevin Martin</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -2747,7 +2747,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img2.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img2.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Jessica Brown</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -2770,7 +2770,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img3.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img3.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Mike Hardson</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -2791,7 +2791,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img4.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img4.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Bernice Pease</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -2811,7 +2811,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Daniel Ward</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -2833,7 +2833,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img5.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img5.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Kevin Martin</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -2855,7 +2855,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img6.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img6.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Jessica Brown</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -2875,7 +2875,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img2.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img2.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Mike Hardson</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -2896,7 +2896,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img3.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img3.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Bernice Pease</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -2916,7 +2916,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img4.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img4.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Daniel Ward</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -2937,7 +2937,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Kevin Martin</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -2958,7 +2958,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img5.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img5.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Jessica Brown</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -2981,7 +2981,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img6.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img6.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Mike Hardson</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -3002,7 +3002,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img2.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img2.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Bernice Pease</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -3022,7 +3022,7 @@
                     </div><!-- end testimonial-item -->
                     <div class="testimonial-item">
                         <div class="testimonial__name">
-                            <img src="images/testi-img3.jpg" alt="small-avatar">
+                            <img src="assets/images/testi-img3.jpg" alt="small-avatar">
                             <h3 class="testimonial__name-title">Daniel Ward</h3>
                             <span class="testimonial__name-meta">student</span>
                             <span class="testimonial__name-rating">
@@ -3133,8 +3133,8 @@
             </div><!-- end col-lg-6 -->
             <div class="col-lg-6">
                 <div class="benefit-img">
-                    <img src="images/img13.jpg" alt="">
-                    <img src="images/img14.jpg" alt="">
+                    <img src="assets/images/img13.jpg" alt="">
+                    <img src="assets/images/img14.jpg" alt="">
                 </div>
             </div>
         </div><!-- end row -->
@@ -3247,19 +3247,19 @@
             <div class="col-lg-12">
                 <div class="client-logo">
                     <div class="client-logo-item">
-                        <a href="#"><img src="images/sponsor-img.png" alt="brand image"></a>
+                        <a href="#"><img src="assets/images/sponsor-img.png" alt="brand image"></a>
                     </div><!-- end client-logo-item -->
                     <div class="client-logo-item">
-                        <a href="#"><img src="images/sponsor-img2.png" alt="brand image"></a>
+                        <a href="#"><img src="assets/images/sponsor-img2.png" alt="brand image"></a>
                     </div><!-- end client-logo-item -->
                     <div class="client-logo-item">
-                        <a href="#"><img src="images/sponsor-img3.png" alt="brand image"></a>
+                        <a href="#"><img src="assets/images/sponsor-img3.png" alt="brand image"></a>
                     </div><!-- end client-logo-item -->
                     <div class="client-logo-item">
-                        <a href="#"><img src="images/sponsor-img4.png" alt="brand image"></a>
+                        <a href="#"><img src="assets/images/sponsor-img4.png" alt="brand image"></a>
                     </div><!-- end client-logo-item -->
                     <div class="client-logo-item">
-                        <a href="#"><img src="images/sponsor-img5.png" alt="brand image"></a>
+                        <a href="#"><img src="assets/images/sponsor-img5.png" alt="brand image"></a>
                     </div><!-- end client-logo-item -->
                 </div><!-- end client-logo -->
             </div><!-- end col-lg-12 -->
@@ -3294,7 +3294,7 @@
                 <div class="blog-post-carousel">
                     <div class="blog-post-item">
                         <div class="blog-post-img">
-                            <img src="images/img9.jpg" alt="blog image" class="blog__img">
+                            <img src="assets/images/img9.jpg" alt="blog image" class="blog__img">
                             <div class="blog__date">
                                 <span>24 may</span>
                             </div><!-- end blog__date -->
@@ -3314,7 +3314,7 @@
                     </div><!-- end blog-post-item -->
                     <div class="blog-post-item">
                         <div class="blog-post-img">
-                            <img src="images/img12.jpg" alt="blog image" class="blog__img">
+                            <img src="assets/images/img12.jpg" alt="blog image" class="blog__img">
                             <div class="blog__date">
                                 <span>25 jun</span>
                             </div><!-- end blog__date -->
@@ -3334,7 +3334,7 @@
                     </div><!-- end blog-post-item -->
                     <div class="blog-post-item">
                         <div class="blog-post-img">
-                            <img src="images/img11.jpg" alt="blog image" class="blog__img">
+                            <img src="assets/images/img11.jpg" alt="blog image" class="blog__img">
                             <div class="blog__date">
                                 <span>26 jul</span>
                             </div><!-- end blog__date -->
@@ -3354,7 +3354,7 @@
                     </div><!-- end blog-post-item -->
                     <div class="blog-post-item">
                         <div class="blog-post-img">
-                            <img src="images/img10.jpg" alt="blog image" class="blog__img">
+                            <img src="assets/images/img10.jpg" alt="blog image" class="blog__img">
                             <div class="blog__date">
                                 <span>27 aug</span>
                             </div><!-- end blog__date -->
@@ -3374,7 +3374,7 @@
                     </div><!-- end blog-post-item -->
                     <div class="blog-post-item">
                         <div class="blog-post-img">
-                            <img src="images/img12.jpg" alt="blog image" class="blog__img">
+                            <img src="assets/images/img12.jpg" alt="blog image" class="blog__img">
                             <div class="blog__date">
                                 <span>28 sept</span>
                             </div><!-- end blog__date -->
@@ -3394,7 +3394,7 @@
                     </div><!-- end blog-post-item -->
                     <div class="blog-post-item">
                         <div class="blog-post-img">
-                            <img src="images/img11.jpg" alt="blog image" class="blog__img">
+                            <img src="assets/images/img11.jpg" alt="blog image" class="blog__img">
                             <div class="blog__date">
                                 <span>29 oct</span>
                             </div><!-- end blog__date -->
@@ -3414,7 +3414,7 @@
                     </div><!-- end blog-post-item -->
                     <div class="blog-post-item">
                         <div class="blog-post-img">
-                            <img src="images/img9.jpg" alt="blog image" class="blog__img">
+                            <img src="assets/images/img9.jpg" alt="blog image" class="blog__img">
                             <div class="blog__date">
                                 <span>3 nov</span>
                             </div><!-- end blog__date -->
@@ -3484,7 +3484,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="footer-widget">
                     <a href="index.html">
-                        <img src="images/logo2.png" alt="footer logo" class="footer__logo">
+                        <img src="assets/images/logo2.png" alt="footer logo" class="footer__logo">
                     </a>
                     <ul class="footer-address">
                         <li><a href="tel:+1631237884">+163 123 7884</a></li>
@@ -3591,19 +3591,19 @@
 
 
 <!-- theme js files -->
-<script src="js/jquery-3.4.1.min.js"></script>
-<script src="js/popper.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/owl.carousel.min.js"></script>
-<script src="js/magnific-popup.min.js"></script>
-<script src="js/isotope.js"></script>
-<script src="js/waypoint.min.js"></script>
-<script src="js/jquery.counterup.min.js"></script>
-<script src="js/particles.min.js"></script>
-<script src="js/particlesRun.js"></script>
-<script src="js/fancybox.js"></script>
-<script src="js/wow.js"></script>
-<script src="js/smooth-scrolling.js"></script>
-<script src="js/main.js"></script>
+<script src="assets/js/jquery-3.4.1.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/owl.carousel.min.js"></script>
+<script src="assets/js/magnific-popup.min.js"></script>
+<script src="assets/js/isotope.js"></script>
+<script src="assets/js/waypoint.min.js"></script>
+<script src="assets/js/jquery.counterup.min.js"></script>
+<script src="assets/js/particles.min.js"></script>
+<script src="assets/js/particlesRun.js"></script>
+<script src="assets/js/fancybox.js"></script>
+<script src="assets/js/wow.js"></script>
+<script src="assets/js/smooth-scrolling.js"></script>
+<script src="assets/js/main.js"></script>
 </body>
 </html>
