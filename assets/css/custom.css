@@ -1,8 +1,9 @@
 /* .main-menu-content nav ul li .dropdown-menu-item li a{
     text-transform: capitalize;
 } */
+
 .slider-area {
-    top: 45px !important;
+    top: 65px !important;
 }
 
 .header-area {
@@ -289,7 +290,6 @@
 }
 
 .header-area .header-menu-wrapper:before {
-    background-image: url("../images/dots3.png");
     background-size: cover;
     background-position: center;
     opacity: .1;
@@ -336,12 +336,34 @@
 }
 
 .header-area .header-menu-wrapper .logo {
-    padding-top: 5px
+    padding-top: 5px;
+    bottom: 6px;
+    position: absolute;
 }
 
 @media(max-width:1199px) {
     .header-area .header-menu-wrapper .logo {
         padding-top: 0
+    }
+}
+
+@media (max-width:1024px) {
+    .header-area .header-menu-wrapper .logo {
+        padding-top: 0;
+        position: relative;
+        height: 100px;
+        width: 100px;
+        bottom: 18px;
+    }
+    .logo-right-button .side-menu-open {
+        bottom: 0
+    }
+}
+
+@media (max-width:900px) {
+    .header-area .header-menu-wrapper .logo {
+        padding-top: 0;
+        position: relative;
     }
 }
 
@@ -745,7 +767,6 @@
     width: 100%;
     height: 100%;
     left: 0;
-    background-image: url("../images/dots3.png");
     background-size: cover;
     background-position: center;
     opacity: .1
@@ -773,7 +794,6 @@
     width: 100%;
     height: 100%;
     left: 0;
-    background-image: url("../images/dots3.png");
     background-size: cover;
     background-position: center;
     opacity: .1
@@ -1003,7 +1023,6 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("../images/dots3.png");
     background-size: cover;
     background-position: center;
     opacity: .1;
@@ -1098,9 +1117,10 @@
     top: 16px
 }
 
-@media(max-width:1199px) {
+@media(max-width:1024px) {
     .logo-right-button .side-menu-open {
-        display: block
+        display: block;
+        position: absolute
     }
 }
 
@@ -1187,7 +1207,7 @@
 @media(max-width:1024px) {
     .header-area2 .header-menu-wrapper {
         margin-right: 15px;
-        margin-left: 15px
+        margin-left: 15px;
     }
 }
 
@@ -1197,7 +1217,11 @@
         margin-left: 0;
         -webkit-border-radius: 0;
         -moz-border-radius: 0;
-        border-radius: 0
+        border-radius: 0;
+        height: 105px;
+    }
+    .logo-right-button .side-menu-open {
+        top: -10px
     }
 }
 

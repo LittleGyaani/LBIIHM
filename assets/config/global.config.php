@@ -28,7 +28,7 @@ if($siteStatus === 'DEVELOPMENT')//If Site is still under development
         $baseURI = $protocol . 'localhost/LBIIHM'; //Local Demo Website
         
     else
-        $baseURI = $protocol . 'mirrordesign.tech/demo/lbiihm-new'; //Our Demo Website
+        $baseURI = $protocol . 'mirrordesign.tech/demo/lbiihm-new'; //Our Demo Website  or Preproduction URL
 
 
 else

@@ -2835,7 +2835,7 @@ require __DIR__ . '/assets/config/global.config.php';
                 <div class="col-lg-5">
                     <div class="register-wrap">
                         <div class="contact-form-action">
-                            <h3 class="contact-title">Receive Free Courses</h3>
+                            <h3 class="contact-title">Quick Enquriy for Course</h3>
                             <form>
                                 <div class="row">
                                     <div class="col-lg-12">
