@@ -27,7 +27,7 @@ if($siteStatus === 'DEVELOPMENT' && $siteHost === 'localhost')
     $baseURI = $protocol.'localhost/LBIIHM';
 
 else
-    $baseURI = $protocol . 'https://mirrordesign.tech/demo/lbiihm-new';
+    $baseURI = $protocol . 'mirrordesign.tech/demo/lbiihm-new';
     //$baseURI = $protocol . 'lbiihm.com';
 
 //Global Values
