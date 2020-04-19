@@ -1,4 +1,3 @@
-
 <!-- Meta Section Starts -->
 
 <!-- Meta updated by Little Gyaani (BRAHMA) {L - https://www.linkedin.com/in/brahmanmohanty G - https://www.github.com/LittleGyaani T - https://www.twitter.com/LittleGyaani F - https://www.facebook.com/brahmanmohanty} W - https://www.meetlittlegyaani.com/ E - bmohanty@live.com P/WA - +91 9853 233 951 -->
@@ -34,7 +33,7 @@
 <meta property='og:title' content="Study Abroad, Study MBBS Abroad, Overseas Education Consultants in Bhubaneswar - Encore Education" />
 <meta property='og:type' content="Website" />
 <meta property='og:url' content="<?= $baseURI; ?>" />
-<meta property="og:image" content="https://www.encoregroup.in/img/encore_logo.png" />
+<meta property="og:image" content="<?= $baseURI; ?>/asset/images/logo/lbiihm_logo.png" />
 <meta property='og:image:width' content="1200" />
 <meta property='og:image:height' content="630" />
 <meta property='og:image:type' content="image/png" />
@@ -43,6 +42,6 @@
 <!-- Cannonical Link -->
 <link rel="canonical" href="<?= $baseURI; ?>" />
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="http://localhost/encoregr/xmlrpc.php">
+<link rel="pingback" href="<?= $baseURI; ?>">
 
 <!-- Meta Section Ends -->
