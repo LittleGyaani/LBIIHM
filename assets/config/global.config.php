@@ -1,5 +1,8 @@
 <?php
 
+//Include Obfuscate php Library
+__DIR__. '/assets/tools/obfuscate/class.obfuscate.php';
+
 
 //Global Declarations
 $baseURI = "";
@@ -24,8 +27,8 @@ if($siteStatus === 'DEVELOPMENT' && $siteHost === 'localhost')
     $baseURI = $protocol.'localhost/LBIIHM';
 
 else
-
-    $baseURI = $protocol . 'lbiihm.com';
+    $baseURI = $protocol . 'mirrordesign.tech/demo/';
+    //$baseURI = $protocol . 'lbiihm.com';
 
 //Global Values
 $baseURI = $baseURI;

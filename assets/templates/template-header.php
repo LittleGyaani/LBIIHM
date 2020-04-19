@@ -1,4 +1,3 @@
-
 <!-- Header Section Starts -->
 
 <!-- Google fonts -->
@@ -22,3 +21,19 @@
 <!-- end inject -->
 
 <!-- Header Section Ends -->
+
+<!-- Preloader Starts -->
+
+<!-- start cssload-loader -->
+<div class="preloader">
+    <div class="cssload-loader">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</div>
+<!-- end cssload-loader -->
+
+<!-- Preloader Ends -->

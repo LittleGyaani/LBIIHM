@@ -2,8 +2,8 @@
 
 <section class="footer-area">
     <div class="ocean">
-        <div class="wave"></div>
-        <div class="wave"></div>
+        <!-- <div class="wave"></div>
+        <div class="wave"></div> -->
     </div>
     <div class="container">
         <div class="row">
@@ -13,25 +13,28 @@
                         <img src="assets/images/logo2.png" alt="footer logo" class="footer__logo">
                     </a>
                     <ul class="footer-address">
-                        <li><a href="tel:+1631237884">+163 123 7884</a></li>
-                        <li><a href="mailto:support@wbsite.com" class="mail">support@website.com</a></li>
-                        <li>Melbourne, Australia, 105 South Park Avenue</li>
+                        <li><a href="tel:+919560895481">+91 9560 895 481</a> <br /> <a href="tel:+919560895482">+91 9560 895 482</a> <br /> <a href="tel:+919560895483">+91 9560 895 483</a></li>
+                        <li><a href="mailto:info@lbiihm.com" class="mail">info@lbiihm.com</a></li>
+                        <li>LBIIHM Tower, B-98, Pushpanjali Enclave, Outer Ring Road, Pitam Pura, Delhi-110034, India</li>
                     </ul>
                     <ul class="footer-social">
                         <li>
-                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/lbiihmindia" target="_blank" data-toggle="tooltip" title="Follow LBIIHM on Facebook"><i class="fa fa-facebook"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="https://twitter.com/LBIIHM2" target="_blank" data-toggle="tooltip" title="Follow LBIIHM on Twitter"><i class="fa fa-twitter"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/school/lakshya-bhartee-institute-of-international-hotel-management-lbiihm-" target="_blank" data-toggle="tooltip" title="Add LBIIHM to LinkedIn Network"><i class="fa fa-linkedin"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                            <a href="https://plus.google.com/u/0/106975462649832500722/" target="_blank" data-toggle="tooltip" title="Follow LBIIHM on Google+"><i class="fa fa-google-plus"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-google-plus"></i></a>
+                            <a href="https://www.youtube.com/user/LbiihmDelhi" target="_blank" data-toggle="tooltip" title="Subscribe LBIIHM on YouTube"><i class="fa fa-youtube-play"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://wa.me/" target="_blank" data-toggle="tooltip" title="Ping LBIIHM on WhatsApp"><i class="fa fa-whatsapp"></i></a>
                         </li>
                     </ul>
                 </div><!-- end footer-widget -->
