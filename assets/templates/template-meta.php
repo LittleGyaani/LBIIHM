@@ -19,6 +19,7 @@
 <meta name="copyright" content="(C) Encore Education - Encore Group." />
 <meta name="owner" content="bmohanty@live.com" />
 <meta name="allow-search" content="yes" />
+<meta name="app-url" content="<?= $baseURI; ?>" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta http-equiv="cache-control" content="max-age=0" />
 <meta http-equiv="cache-control" content="no-cache" />
@@ -33,7 +34,7 @@
 <meta property='og:title' content="Study Abroad, Study MBBS Abroad, Overseas Education Consultants in Bhubaneswar - Encore Education" />
 <meta property='og:type' content="Website" />
 <meta property='og:url' content="<?= $baseURI; ?>" />
-<meta property="og:image" content="<?= $baseURI; ?>/asset/images/logo/lbiihm_logo.png" />
+<meta property="og:image" content="<?= $baseURI; ?>/assets/images/logo/lbiihm_logo.png" />
 <meta property='og:image:width' content="1200" />
 <meta property='og:image:height' content="630" />
 <meta property='og:image:type' content="image/png" />
