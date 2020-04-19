@@ -22,13 +22,17 @@ $apiEndpoint = "/api/web/v1/requests/";
 
 $siteStatus = "DEVELOPMENT";//Current status of the Project
 
-if($siteStatus === 'DEVELOPMENT' && $siteHost === 'localhost')
+if($siteStatus === 'DEVELOPMENT')
 
-    $baseURI = $protocol.'localhost/LBIIHM';
+    if($siteHost === 'localhost')
+        $baseURI = $protocol . 'localhost/LBIIHM'; //Local Demo Website
+        
+    else
+        $baseURI = $protocol . 'mirrordesign.tech/demo/lbiihm-new'; //Our Demo Website
+
 
 else
-    $baseURI = $protocol . 'mirrordesign.tech/demo/lbiihm-new';
-    //$baseURI = $protocol . 'lbiihm.com';
+    $baseURI = $protocol . 'lbiihm.com'; //Live Production Website
 
 //Global Values
 $baseURI = $baseURI;
