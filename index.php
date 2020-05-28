@@ -9,7 +9,7 @@ require __DIR__ . '/assets/config/global.config.php';
     <?php
     //Calling Meta Section
     include __DIR__ . '/assets/templates/template-meta.php';
-    //Calling Header Section 
+    //Calling Header Section
     include __DIR__ . '/assets/templates/template-header.php';
     ?>
 </head>
@@ -19,7 +19,7 @@ require __DIR__ . '/assets/config/global.config.php';
     <!--======================================
         START HEADER AREA
     ======================================-->
-    
+
     <?php
     //Calling Navigation
     include __DIR__ . '/assets/templates/template-navigation.php';
@@ -34,22 +34,20 @@ require __DIR__ . '/assets/config/global.config.php';
 =================================-->
     <section class="slider-area">
         <div class="homepage-slide1">
-            <div class="single-slide-item slide-bg1">
+            <div class="single-slide-item" style="background-image: url('<?= $baseURI; ?>/assets/images/slider/home/slide1.jpg');">
                 <div class="slide-item-table">
                     <div class="slide-item-tablecell">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-9">
                                     <div class="slider-heading">
-                                        <h2 class="slider__title">We Help You Learn What You Love</h2>
-                                        <p class="slider__text">Emply dummy text of the printing and typesetting industry orem Ipsum has been the
-                                            <br>industry's standard dummy text ever sinceprinting and typesetting industry.
-                                        </p>
+                                        <p style="font-size: 1.4em;" class="slider__text">TOP HOTEL MANAGEMENT INSTITUTE IN DELHI NCR</p>
+                                        <h2 style="font-size: 4em;" class="slider__title">WELCOME TO LBIIHM</h2>
                                         <div class="slider-promo-btn">
-                                            <a href="admission" class="theme-btn">let's join now</a>
-                                            <a class="mfp-iframe video-play-btn" href="https://www.youtube.com/watch?v=cRXm1p-CNyk">
+                                            <a href="admission" class="theme-btn">Contact Us</a>
+                                            <!-- <a class="mfp-iframe video-play-btn" href="https://www.youtube.com/watch?v=cRXm1p-CNyk">
                                                 Watch Preview <span class="la la-play"></span>
-                                            </a>
+                                            </a> -->
                                         </div>
                                     </div>
                                 </div><!-- col-lg-9 -->
@@ -58,22 +56,20 @@ require __DIR__ . '/assets/config/global.config.php';
                     </div><!-- slide-item-tablecell -->
                 </div><!-- slide-item-table -->
             </div><!-- end single-slide-item -->
-            <div class="single-slide-item slide-bg2">
+            <div class="single-slide-item" style="background-image: url('<?= $baseURI; ?>/assets/images/slider/home/slide2.jpg');">
                 <div class="slide-item-table">
                     <div class="slide-item-tablecell">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-9 mx-auto">
                                     <div class="slider-heading text-center">
-                                        <h2 class="slider__title">Join Aduca & Get Your Free Courses!</h2>
-                                        <p class="slider__text">Emply dummy text of the printing and typesetting industry orem Ipsum has been the
-                                            <br>industry's standard dummy text ever sinceprinting and typesetting industry.
-                                        </p>
+                                        <p style="font-size: 1.4em;" class="slider__text">THE BEST WAY TO CREATE FUTURE IS TO CREATE IT</p>
+                                          <h2 class="slider__title">JOIN LBIIHM AND LET US SHAPE YOUR CAREER</h2>
                                         <div class="slider-promo-btn justify-content-center">
-                                            <a href="admission" class="theme-btn">get started now</a>
-                                            <a class="mfp-iframe video-play-btn" href="https://www.youtube.com/watch?v=cRXm1p-CNyk">
+                                            <a href="admission" class="theme-btn">Contact Us</a>
+                                            <!-- <a class="mfp-iframe video-play-btn" href="https://www.youtube.com/watch?v=cRXm1p-CNyk">
                                                 Watch Preview <span class="la la-play"></span>
-                                            </a>
+                                            </a> -->
                                         </div>
                                     </div>
                                 </div><!-- col-md-7 -->
@@ -82,13 +78,13 @@ require __DIR__ . '/assets/config/global.config.php';
                     </div><!-- slide-item-tablecell -->
                 </div><!-- slide-item-table -->
             </div><!-- end single-slide-item -->
-            <div class="single-slide-item slide-bg3">
+            <div class="single-slide-item" style="background-image: url('<?= $baseURI; ?>/assets/images/slider/home/slide3.jpg');">
                 <div class="slide-item-table">
                     <div class="slide-item-tablecell">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-9 ml-auto">
-                                    <div class="slider-heading text-right">
+                                    <!-- <div class="slider-heading text-right">
                                         <h2 class="slider__title">Education Needs Complete Solution</h2>
                                         <p class="slider__text">Emply dummy text of the printing and typesetting industry orem Ipsum has been the
                                             <br>industry's standard dummy text ever sinceprinting and typesetting industry.
@@ -99,7 +95,7 @@ require __DIR__ . '/assets/config/global.config.php';
                                             </a>
                                             <a href="admission" class="theme-btn">get enrolled now</a>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div><!-- col-md-7 -->
                             </div><!-- row -->
                         </div><!-- container -->
@@ -155,7 +151,7 @@ require __DIR__ . '/assets/config/global.config.php';
     <!--======================================
         START CATEGORY AREA
 ======================================-->
-    <section class="category-area">
+    <section style="display:none" class="category-area">
         <div class="container">
             <div class="row">
                 <div class="col-lg-9">
@@ -242,7 +238,7 @@ require __DIR__ . '/assets/config/global.config.php';
     <!--======================================
         START COURSE AREA
 ======================================-->
-    <section class="course-area">
+    <section style="display:none" class="course-area">
         <div class="course-wrapper">
             <div class="container">
                 <div class="row">
@@ -1879,7 +1875,7 @@ require __DIR__ . '/assets/config/global.config.php';
     <!--======================================
         START COURSE 2 AREA
 ======================================-->
-    <section class="course-area course-area2">
+    <section style="display:none" class="course-area course-area2">
         <div class="course-wrapper">
             <div class="container">
                 <div class="row">
@@ -2230,7 +2226,7 @@ require __DIR__ . '/assets/config/global.config.php';
                 <div class="col-lg-4">
                     <div class="speaker-item speaker-item1">
                         <div class="speaker-img-box">
-                            <img src="assets/images/team.jpg" alt="">
+                            <img src="assets/images/teachers/team1.jpg" alt="">
                             <ul class="speaker__profile">
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -2240,11 +2236,12 @@ require __DIR__ . '/assets/config/global.config.php';
                         </div>
                         <div class="speaker-detail">
                             <div class="speaker-title-box">
-                                <h3 class="speaker__title"><a href="teacher-detail">alex smith</a></h3>
-                                <p class="speaker__meta">Teacher</p>
+                                <h3 class="speaker__title"><a href="teacher-detail">Dr Kamal Kumar</a></h3>
+                                <p class="speaker__meta">Director</p>
                                 <p class="speaker__text">
-                                    Pellentesque tellus arcu, laoreet volutpavenenatis molest
-                                    commodo lorem lectus pretium vehicula.
+                                  Ph.D. ( Corporate Social Inclusion )
+                                  PGDM (XIMB)
+                                  B.A. (Eco) - D.U.
                                 </p>
                                 <a href="teacher-detail" class="speaker__link">view profile</a>
                             </div>
@@ -2254,7 +2251,7 @@ require __DIR__ . '/assets/config/global.config.php';
                 <div class="col-lg-4">
                     <div class="speaker-item speaker-item2">
                         <div class="speaker-img-box">
-                            <img src="assets/images/team2.jpg" alt="">
+                            <img src="assets/images/teachers/team2.jpg" alt="">
                             <ul class="speaker__profile">
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -2264,12 +2261,9 @@ require __DIR__ . '/assets/config/global.config.php';
                         </div>
                         <div class="speaker-detail">
                             <div class="speaker-title-box">
-                                <h3 class="speaker__title"><a href="teacher-detail">rose taylor</a></h3>
-                                <p class="speaker__meta">Teacher</p>
-                                <p class="speaker__text">
-                                    Pellentesque tellus arcu, laoreet volutpavenenatis molest
-                                    commodo lorem lectus pretium vehicula.
-                                </p>
+                                <h3 class="speaker__title"><a href="teacher-detail">Shobana Chadha</a></h3>
+                                <p class="speaker__meta">Vice Principal</p>
+                                <p class="speaker__text"></p>
                                 <a href="teacher-detail" class="speaker__link">view profile</a>
                             </div>
                         </div>
@@ -2278,7 +2272,7 @@ require __DIR__ . '/assets/config/global.config.php';
                 <div class="col-lg-4">
                     <div class="speaker-item speaker-item3">
                         <div class="speaker-img-box">
-                            <img src="assets/images/team3.jpg" alt="">
+                            <img src="assets/images/teachers/team3.jpg" alt="">
                             <ul class="speaker__profile">
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -2288,12 +2282,9 @@ require __DIR__ . '/assets/config/global.config.php';
                         </div>
                         <div class="speaker-detail">
                             <div class="speaker-title-box">
-                                <h3 class="speaker__title"><a href="teacher-detail">jef collin</a></h3>
-                                <p class="speaker__meta">Teacher</p>
-                                <p class="speaker__text">
-                                    Pellentesque tellus arcu, laoreet volutpavenenatis molest
-                                    commodo lorem lectus pretium vehicula.
-                                </p>
+                                <h3 class="speaker__title"><a href="teacher-detail">Ms. Priya</a></h3>
+                                <p class="speaker__meta">Head Admissions & Administration Sr.Soft Skills Trainer</p>
+                                <p class="speaker__text">Sr.Soft Skills Trainer</p>
                                 <a href="teacher-detail" class="speaker__link">view profile</a>
                             </div>
                         </div>
@@ -2302,7 +2293,7 @@ require __DIR__ . '/assets/config/global.config.php';
                 <div class="col-lg-4">
                     <div class="speaker-item speaker-item4">
                         <div class="speaker-img-box">
-                            <img src="assets/images/team4.jpg" alt="">
+                            <img src="assets/images/teachers/team4.jpg" alt="">
                             <ul class="speaker__profile">
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -2312,12 +2303,9 @@ require __DIR__ . '/assets/config/global.config.php';
                         </div>
                         <div class="speaker-detail">
                             <div class="speaker-title-box">
-                                <h3 class="speaker__title"><a href="teacher-detail">mike hardson</a></h3>
-                                <p class="speaker__meta">Teacher</p>
-                                <p class="speaker__text">
-                                    Pellentesque tellus arcu, laoreet volutpavenenatis molest
-                                    commodo lorem lectus pretium vehicula.
-                                </p>
+                                <h3 class="speaker__title"><a href="teacher-detail">Ms Anita Gulati</a></h3>
+                                <p class="speaker__meta">Placement Officer(Cum Lecturer HRM)</p>
+                                <p class="speaker__text"></p>
                                 <a href="teacher-detail" class="speaker__link">view profile</a>
                             </div>
                         </div>
@@ -2326,7 +2314,7 @@ require __DIR__ . '/assets/config/global.config.php';
                 <div class="col-lg-4">
                     <div class="speaker-item speaker-item5">
                         <div class="speaker-img-box">
-                            <img src="assets/images/team5.jpg" alt="">
+                            <img src="assets/images/teachers/team5.jpg" alt="">
                             <ul class="speaker__profile">
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -2336,11 +2324,10 @@ require __DIR__ . '/assets/config/global.config.php';
                         </div>
                         <div class="speaker-detail">
                             <div class="speaker-title-box">
-                                <h3 class="speaker__title"><a href="teacher-detail">john smith</a></h3>
+                                <h3 class="speaker__title"><a href="teacher-detail">Bhaskar Maurya</a></h3>
                                 <p class="speaker__meta">Teacher</p>
                                 <p class="speaker__text">
-                                    Pellentesque tellus arcu, laoreet volutpavenenatis molest
-                                    commodo lorem lectus pretium vehicula.
+                                  Faculty Food Production
                                 </p>
                                 <a href="teacher-detail" class="speaker__link">view profile</a>
                             </div>
@@ -2350,7 +2337,7 @@ require __DIR__ . '/assets/config/global.config.php';
                 <div class="col-lg-4">
                     <div class="speaker-item speaker-item6">
                         <div class="speaker-img-box">
-                            <img src="assets/images/team6.jpg" alt="">
+                            <img src="assets/images/teachers/team6.jpg" alt="">
                             <ul class="speaker__profile">
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -2360,11 +2347,10 @@ require __DIR__ . '/assets/config/global.config.php';
                         </div>
                         <div class="speaker-detail">
                             <div class="speaker-title-box">
-                                <h3 class="speaker__title"><a href="teacher-detail">kevin martin</a></h3>
-                                <p class="speaker__meta">Teacher</p>
+                                <h3 class="speaker__title"><a href="teacher-detail">Anita Chhikara</a></h3>
+                                <p class="speaker__meta">Housekeeping Faculty</p>
                                 <p class="speaker__text">
-                                    Pellentesque tellus arcu, laoreet volutpavenenatis molest
-                                    commodo lorem lectus pretium vehicula.
+                                    B.Sc. in Hotel Management
                                 </p>
                                 <a href="teacher-detail" class="speaker__link">view profile</a>
                             </div>
@@ -2406,8 +2392,8 @@ require __DIR__ . '/assets/config/global.config.php';
                     <div class="testimonial-wrap">
                         <div class="testimonial-item">
                             <div class="testimonial__name">
-                                <img src="assets/images/testi-img.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Kevin Martin</h3>
+                                <img src="assets/images/students/testi-img1.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Vikram Thapa</h3>
                                 <span class="testimonial__name-meta">student</span>
                                 <span class="testimonial__name-rating">
                                     <i class="la la-star"></i>
@@ -2419,16 +2405,14 @@ require __DIR__ . '/assets/config/global.config.php';
                             </div><!-- end testimonial__name -->
                             <div class="testimonial__desc">
                                 <p class="testimonial__desc-desc">
-                                    My children and I LOVE Aduca! The courses are fantastic and the
-                                    instructors are so fun and knowledgeable.
-                                    I only wish we found it sooner.
+                                  Life as an LBIIHM student is incredible. There is a perfect balance between studies and extra curricular activities. All enthusiastic faculties are approachable and impart knowledge in a very interesting way. I am very confident that after graduating from LBIIHM, a bright future is waiting for me.
                                 </p>
                             </div><!-- end testimonial__desc -->
                         </div><!-- end testimonial-item -->
                         <div class="testimonial-item">
                             <div class="testimonial__name">
-                                <img src="assets/images/testi-img2.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Jessica Brown</h3>
+                                <img src="assets/images/students/testi-img2.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Rahul Gupta</h3>
                                 <span class="testimonial__name-meta">student</span>
                                 <span class="testimonial__name-rating">
                                     <i class="la la-star"></i>
@@ -2440,18 +2424,14 @@ require __DIR__ . '/assets/config/global.config.php';
                             </div><!-- end testimonial__name -->
                             <div class="testimonial__desc">
                                 <p class="testimonial__desc-desc">
-                                    No matter what you want to learn, you’ll find an
-                                    amazing selection of courses here.
-                                    The instructors are so knowledgable while
-                                    being fun and interesting. Lorem ipsum dolor sit amet,
-                                    consectetur adipisicing elit. Ad blanditiis consectetur
+                                  Our college's USP has been its placement record, it has managed to give 100% placements consistently. LBIIHM has a very good reputation with hotels. You emerge from the 3 years of the degree course as a more confident individual and it prepares you efficiently for life in the hotel industry. Lastly, I would like to mention that- LBIIHM is the place to be in for students aspiring to be in hospitality, provided one has passion and focus to excellence in this world of attraction and distraction.
                                 </p>
                             </div><!-- end testimonial__desc -->
                         </div><!-- end testimonial-item -->
                         <div class="testimonial-item">
                             <div class="testimonial__name">
-                                <img src="assets/images/testi-img3.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Mike Hardson</h3>
+                                <img src="assets/images/students/testi-img3.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Shaveena Parveen</h3>
                                 <span class="testimonial__name-meta">student</span>
                                 <span class="testimonial__name-rating">
                                     <i class="la la-star"></i>
@@ -2463,16 +2443,14 @@ require __DIR__ . '/assets/config/global.config.php';
                             </div><!-- end testimonial__name -->
                             <div class="testimonial__desc">
                                 <p class="testimonial__desc-desc">
-                                    I really recommend this site to all my friends and anyone who’s willing to
-                                    learn real skills. This platform gives
-                                    you the opportunity to learn from experts at a convenient time.
+                                  I am proud to say that my family took a wise decision and enrolled me with LBIIHM.  I always wished to study at a place which had supportive faculty, state-of-the-art infrastructure and resources for my overall development into a professional. I opted for LBIIHM girls hostel, which has become my second home now. Staying in an unknown city was not easy, however my family and I found the hostel the best place as it was safe and nice. I am glad that I have a complete support system which is helping me in achieving my goal to become a successful professional.
                                 </p>
                             </div><!-- end testimonial__desc -->
                         </div><!-- end testimonial-item -->
                         <div class="testimonial-item">
                             <div class="testimonial__name">
-                                <img src="assets/images/testi-img4.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Bernice Pease</h3>
+                                <img src="assets/images/students/testi-img4.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Rahul</h3>
                                 <span class="testimonial__name-meta">student</span>
                                 <span class="testimonial__name-rating">
                                     <i class="la la-star"></i>
@@ -2484,15 +2462,14 @@ require __DIR__ . '/assets/config/global.config.php';
                             </div><!-- end testimonial__name -->
                             <div class="testimonial__desc">
                                 <p class="testimonial__desc-desc">
-                                    Thank you Aduca! You've renewed my passion for
-                                    learning and my dream of becoming a web developer.
+                                LBIIHM has inculcated immense confidence in me. I am really thankful to all my faculties and management for ensuring students’ overall personality development. In addition to interactive theoretical and practical sessions, frequent extra-curricular activities keep our routine lively.
                                 </p>
                             </div><!-- end testimonial__desc -->
                         </div><!-- end testimonial-item -->
                         <div class="testimonial-item">
                             <div class="testimonial__name">
-                                <img src="assets/images/testi-img.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Daniel Ward</h3>
+                                <img src="assets/images/students/testi-img5.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Aisf Khan</h3>
                                 <span class="testimonial__name-meta">student</span>
                                 <span class="testimonial__name-rating">
                                     <i class="la la-star"></i>
@@ -2504,17 +2481,14 @@ require __DIR__ . '/assets/config/global.config.php';
                             </div><!-- end testimonial__name -->
                             <div class="testimonial__desc">
                                 <p class="testimonial__desc-desc">
-                                    I came across this site when I had no funds to pay for a college education.
-                                    This site has literally been a lifesaver as
-                                    I can now earn from freelance working using the skills
-                                    I learned from here.
+                                  I am thankful to god and my parents for guiding me to LBIIHM. Though I was apprehensive initially, looking at relatively small infrastructure, however I am happy that the institute is providing relevant and optimum training and teaching to make us successful hospitality professionals.
                                 </p>
                             </div><!-- end testimonial__desc -->
                         </div><!-- end testimonial-item -->
                         <div class="testimonial-item">
                             <div class="testimonial__name">
-                                <img src="assets/images/testi-img5.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Kevin Martin</h3>
+                                <img src="assets/images/students/testi-img6.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Shashank Kaushik</h3>
                                 <span class="testimonial__name-meta">student</span>
                                 <span class="testimonial__name-rating">
                                     <i class="la la-star"></i>
@@ -2526,202 +2500,11 @@ require __DIR__ . '/assets/config/global.config.php';
                             </div><!-- end testimonial__name -->
                             <div class="testimonial__desc">
                                 <p class="testimonial__desc-desc">
-                                    This site has helped me with all the resources I need to become a
-                                    freelance web developer. I have a renewed passion
-                                    for learning more thanks to all the helpful
-                                    and amazing instructors
+                                  At LBIIHM, I find myself in a pool of never-ending opportunities. Industry visits, guest lectures, industrial training in 5 star hotels, placements in renowned national/international hotels, you name it and the institute has in store for us.
                                 </p>
                             </div><!-- end testimonial__desc -->
                         </div><!-- end testimonial-item -->
-                        <div class="testimonial-item">
-                            <div class="testimonial__name">
-                                <img src="assets/images/testi-img6.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Jessica Brown</h3>
-                                <span class="testimonial__name-meta">student</span>
-                                <span class="testimonial__name-rating">
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                </span>
-                            </div><!-- end testimonial__name -->
-                            <div class="testimonial__desc">
-                                <p class="testimonial__desc-desc">
-                                    Thank you Aduca! You've renewed my passion for
-                                    learning and my dream of becoming a web developer.
-                                </p>
-                            </div><!-- end testimonial__desc -->
-                        </div><!-- end testimonial-item -->
-                        <div class="testimonial-item">
-                            <div class="testimonial__name">
-                                <img src="assets/images/testi-img2.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Mike Hardson</h3>
-                                <span class="testimonial__name-meta">student</span>
-                                <span class="testimonial__name-rating">
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                </span>
-                            </div><!-- end testimonial__name -->
-                            <div class="testimonial__desc">
-                                <p class="testimonial__desc-desc">
-                                    I work in project management and joined Aduca because I get great courses
-                                    for less. The instructors are fantastic,
-                                    interesting, and helpful. Thank you Aduca
-                                </p>
-                            </div><!-- end testimonial__desc -->
-                        </div><!-- end testimonial-item -->
-                        <div class="testimonial-item">
-                            <div class="testimonial__name">
-                                <img src="assets/images/testi-img3.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Bernice Pease</h3>
-                                <span class="testimonial__name-meta">student</span>
-                                <span class="testimonial__name-rating">
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                </span>
-                            </div><!-- end testimonial__name -->
-                            <div class="testimonial__desc">
-                                <p class="testimonial__desc-desc">
-                                    No matter what you want to learn, you’ll find an amazing selection of courses here.
-                                    The instructors are so knowledgable while being fun and interesting.
-                                </p>
-                            </div><!-- end testimonial__desc -->
-                        </div><!-- end testimonial-item -->
-                        <div class="testimonial-item">
-                            <div class="testimonial__name">
-                                <img src="assets/images/testi-img4.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Daniel Ward</h3>
-                                <span class="testimonial__name-meta">student</span>
-                                <span class="testimonial__name-rating">
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                </span>
-                            </div><!-- end testimonial__name -->
-                            <div class="testimonial__desc">
-                                <p class="testimonial__desc-desc">
-                                    The best part about Aduca is the selection.
-                                    You can find a course for anything you want to learn!
-                                    really Aduca i closed with you.
-                                </p>
-                            </div><!-- end testimonial__desc -->
-                        </div><!-- end testimonial-item -->
-                        <div class="testimonial-item">
-                            <div class="testimonial__name">
-                                <img src="assets/images/testi-img.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Kevin Martin</h3>
-                                <span class="testimonial__name-meta">student</span>
-                                <span class="testimonial__name-rating">
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                </span>
-                            </div><!-- end testimonial__name -->
-                            <div class="testimonial__desc">
-                                <p class="testimonial__desc-desc">
-                                    I came across this site when I had no funds to pay for a college education.
-                                    This site has literally been a lifesaver as I can
-                                    now earn from freelance working using the skills I learned from here.
-                                </p>
-                            </div><!-- end testimonial__desc -->
-                        </div><!-- end testimonial-item -->
-                        <div class="testimonial-item">
-                            <div class="testimonial__name">
-                                <img src="assets/images/testi-img5.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Jessica Brown</h3>
-                                <span class="testimonial__name-meta">student</span>
-                                <span class="testimonial__name-rating">
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                </span>
-                            </div><!-- end testimonial__name -->
-                            <div class="testimonial__desc">
-                                <p class="testimonial__desc-desc">
-                                    Studying free courses in the privacy of my home allows me to be a
-                                    role model for my children. My children know my goals are to complete courses
-                                    to help fill in the gaps I have in my learning to improve my chances of
-                                    getting a job in my field. Having the opportunity
-                                    to change my life by studying without having to pay is awesome.
-                                </p>
-                            </div><!-- end testimonial__desc -->
-                        </div><!-- end testimonial-item -->
-                        <div class="testimonial-item">
-                            <div class="testimonial__name">
-                                <img src="assets/images/testi-img6.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Mike Hardson</h3>
-                                <span class="testimonial__name-meta">student</span>
-                                <span class="testimonial__name-rating">
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                </span>
-                            </div><!-- end testimonial__name -->
-                            <div class="testimonial__desc">
-                                <p class="testimonial__desc-desc">
-                                    Aduca opens the doors for new opportunities. The concept of continued
-                                    learning has really improved my mental acuity and has given me a sense of personal fulfilment.
-                                    I’ve also gained more confidence and so have a much better lifestyle.
-                                </p>
-                            </div><!-- end testimonial__desc -->
-                        </div><!-- end testimonial-item -->
-                        <div class="testimonial-item">
-                            <div class="testimonial__name">
-                                <img src="assets/images/testi-img2.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Bernice Pease</h3>
-                                <span class="testimonial__name-meta">student</span>
-                                <span class="testimonial__name-rating">
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                </span>
-                            </div><!-- end testimonial__name -->
-                            <div class="testimonial__desc">
-                                <p class="testimonial__desc-desc">
-                                    Esther is an enthusiastic Aduca student from Nigeria.
-                                    Esther first learned to speak Spanish with Aduca. She thinks Aduca i...
-                                </p>
-                            </div><!-- end testimonial__desc -->
-                        </div><!-- end testimonial-item -->
-                        <div class="testimonial-item">
-                            <div class="testimonial__name">
-                                <img src="assets/images/testi-img3.jpg" alt="small-avatar">
-                                <h3 class="testimonial__name-title">Daniel Ward</h3>
-                                <span class="testimonial__name-meta">student</span>
-                                <span class="testimonial__name-rating">
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                    <i class="la la-star"></i>
-                                </span>
-                            </div><!-- end testimonial__name -->
-                            <div class="testimonial__desc">
-                                <p class="testimonial__desc-desc">
-                                    I really recommend this site to all my friends and anyone who’s
-                                    willing to learn real skills. This platform
-                                    gives you the opportunity to learn
-                                    from experts at a convenient time.
-                                </p>
-                            </div><!-- end testimonial__desc -->
-                        </div><!-- end testimonial-item -->
+                        <!-- end testimonial-item -->
                     </div><!-- end testimonial-wrap -->
                 </div><!-- end col-md-12 -->
             </div><!-- end row -->
