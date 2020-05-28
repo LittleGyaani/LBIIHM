@@ -10,7 +10,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="footer-widget">
                     <a href="index">
-                        <img src="<? $baseURI; ?>assets/images/logo/lbiihm-logo.png" alt="LBIIHM logo" class="footer__logo">
+                        <img src="<?= $baseURI; ?>/assets/images/logo/lbiihm-logo.png" alt="LBIIHM logo" class="footer__logo">
                     </a>
                     <ul class="footer-address">
                         <li><a href="tel:+919560895481">+91 9560 895 481</a> <br /> <a href="tel:+919560895482">+91 9560 895 482</a> <br /> <a href="tel:+919560895483">+91 9560 895 483</a></li>

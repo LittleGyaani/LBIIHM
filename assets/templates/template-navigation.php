@@ -64,7 +64,7 @@
             <div class="row">
                 <div class="col-lg-2">
                     <div class="logo-box">
-                        <a href="./" class="logo"> <img src="<? $baseURI; ?>assets/images/logo/lbiihm-logo.png" alt="LBIIHM logo" width="150px"></a>
+                        <a href="./" class="logo"> <img src="<?= $baseURI; ?>/assets/images/logo/lbiihm-logo.png" alt="LBIIHM logo" width="150px"></a>
                     </div><!-- end logo -->
                 </div><!-- end col-lg-3-->
                 <div class="col-lg-10 main-menu-wrapper">
