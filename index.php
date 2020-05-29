@@ -64,7 +64,7 @@ require __DIR__ . '/assets/config/global.config.php';
                                 <div class="col-lg-9 mx-auto">
                                     <div class="slider-heading text-center">
                                         <p style="font-size: 1.4em;" class="slider__text">THE BEST WAY TO CREATE FUTURE IS TO CREATE IT</p>
-                                          <h2 class="slider__title">JOIN LBIIHM AND LET US SHAPE YOUR CAREER</h2>
+                                          <h2 style="font-size: 3.4em;"  class="slider__title">JOIN LBIIHM AND LET US SHAPE YOUR CAREER</h2>
                                         <div class="slider-promo-btn justify-content-center">
                                             <a href="admission" class="theme-btn">Contact Us</a>
                                             <!-- <a class="mfp-iframe video-play-btn" href="https://www.youtube.com/watch?v=cRXm1p-CNyk">
@@ -2159,10 +2159,10 @@ require __DIR__ . '/assets/config/global.config.php';
             <div class="row">
                 <div class="col-lg-6">
                     <div class="benefit-img">
-                        <img src="images/img13.jpg" alt="">
-                        <img src="images/img14.jpg" alt="">
-                        <img src="images/img12.jpg" alt="">
-                        <img src="images/img11.jpg" alt="">
+                        <img src="<?= $baseURI; ?>/assets/images/img141.jpg" alt="">
+                        <!-- <img src="<?= $baseURI; ?>/assets/images/img12.jpg" alt=""> -->
+                        <!-- <img src="<?= $baseURI; ?>/assets/images/img14.jpg" alt=""> -->
+                          <!-- <img src="<?= $baseURI; ?>/assets/images/img11.jpg" alt=""> -->
                     </div><!-- end benefit-img -->
                 </div><!-- end col-lg-6 -->
                 <div class="col-lg-6">
@@ -2560,13 +2560,15 @@ require __DIR__ . '/assets/config/global.config.php';
                 <div class="col-lg-6">
                     <div class="benefit-heading">
                         <div class="section-heading">
-                            <h5 class="section__meta">get start with aduca</h5>
-                            <h2 class="section__title">Benefits of Learning With Aduca</h2>
+                            <h5 class="section__meta">get start with LBIIHM</h5>
+                            <h2 class="section__title">Benefits of Learning With LBIIHM</h2>
                             <span class="section__divider"></span>
                             <p class="section__desc">
-                                Smply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                                the industry’s when an unknown printerit to make a type specimen book
-                                Pellentesque tellus arcu
+                                Studying at LBIIHM, Hotel Management Course will allow you to learn skills that can be used in other positions,
+                                such as managerial skills, leadership, teamwork, and organization. You can use these skills to your advantage
+                                 if you ever decide to leave the industry to pursue other career options. To succeed as a hospitality manager,
+                                 you must have both soft and hard skills, similar to a manager in any industry. You will learn both of these types
+                                 of skills in the hospitality industry, and you will also learn how to deal with people from different backgrounds.
                             </p>
                             <div class="row benefit-course-box">
                                 <div class="col-lg-4">
@@ -2700,8 +2702,8 @@ require __DIR__ . '/assets/config/global.config.php';
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-heading text-center">
-                        <h5 class="section__meta">our partners</h5>
-                        <h2 class="section__title">Trusted by companies of all sizes</h2>
+                        <!-- <h5 class="section__meta">Our Hiring Partners</h5> -->
+                        <h2 class="section__title">Our Hiring Partners</h2>
                         <span class="section__divider"></span>
                     </div><!-- end section-heading -->
                 </div><!-- end col-md-12 -->
@@ -2710,20 +2712,34 @@ require __DIR__ . '/assets/config/global.config.php';
                 <div class="col-lg-12">
                     <div class="client-logo">
                         <div class="client-logo-item">
-                            <a href="#"><img src="assets/images/sponsor-img.png" alt="brand image"></a>
+                            <a href="#"><img src="assets/images/partners/sponsor-img1.jpg" alt="brand image"></a>
                         </div><!-- end client-logo-item -->
                         <div class="client-logo-item">
-                            <a href="#"><img src="assets/images/sponsor-img2.png" alt="brand image"></a>
+                            <a href="#"><img src="assets/images/partners/sponsor-img2.jpg" alt="brand image"></a>
                         </div><!-- end client-logo-item -->
                         <div class="client-logo-item">
-                            <a href="#"><img src="assets/images/sponsor-img3.png" alt="brand image"></a>
+                            <a href="#"><img src="assets/images/partners/sponsor-img3.jpg" alt="brand image"></a>
                         </div><!-- end client-logo-item -->
                         <div class="client-logo-item">
-                            <a href="#"><img src="assets/images/sponsor-img4.png" alt="brand image"></a>
+                            <a href="#"><img src="assets/images/partners/sponsor-img4.jpg" alt="brand image"></a>
                         </div><!-- end client-logo-item -->
                         <div class="client-logo-item">
-                            <a href="#"><img src="assets/images/sponsor-img5.png" alt="brand image"></a>
-                        </div><!-- end client-logo-item -->
+                            <a href="#"><img src="assets/images/partners/sponsor-img5.jpg" alt="brand image"></a>
+                        </div>
+                        <div class="client-logo-item">
+                            <a href="#"><img src="assets/images/partners/sponsor-img6.jpg" alt="brand image"></a>
+                        </div>
+                        <div class="client-logo-item">
+                            <a href="#"><img src="assets/images/partners/sponsor-img7.jpg" alt="brand image"></a>
+                        </div>
+                        <div class="client-logo-item">
+                            <a href="#"><img src="assets/images/partners/sponsor-img8.jpg" alt="brand image"></a>
+                        </div>
+                        <div class="client-logo-item">
+                            <a href="#"><img src="assets/images/partners/sponsor-img9.jpg" alt="brand image"></a>
+                        </div>
+
+                        <!-- end client-logo-item -->
                     </div><!-- end client-logo -->
                 </div><!-- end col-lg-12 -->
             </div><!-- end row -->
