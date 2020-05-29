@@ -116,13 +116,13 @@
                         items: 2
                     },
                     992: {
-                        items: 3
+                        items: 2
                     },
                     1025: {
-                        items: 4
+                        items: 2
                     },
                     1440: {
-                        items: 5
+                        items: 2
                     }
                 }
             }), o(".client-logo").owlCarousel({
