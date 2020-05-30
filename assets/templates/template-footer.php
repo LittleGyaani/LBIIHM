@@ -44,35 +44,33 @@
                     <h3 class="footer-title">company</h3>
                     <span class="section__divider"></span>
                     <ul class="footer-link">
-                        <li><a href="#">about us</a></li>
-                        <li><a href="#">become a Teacher</a></li>
-                        <li><a href="#">support</a></li>
+                        <li><a href="#">About LBIIHM</a></li>
+                        <li><a href="#">Our Campus</a></li>
+                        <li><a href="#">Get Admission</a></li>
+                        <li><a href="#">Blog</a></li>
                         <li><a href="#">FAQs</a></li>
-                        <li><a href="#">blog</a></li>
+                        <li><a href="#">Apply Now</a></li>
+                        <li><a href="#">Contact Us</a></li>
                     </ul>
                 </div><!-- end footer-widget -->
             </div><!-- end col-lg-3 -->
             <div class="col-lg-3 col-sm-6">
                 <div class="footer-widget">
-                    <h3 class="footer-title">courses</h3>
+                    <h3 class="footer-title">Our Courses</h3>
                     <span class="section__divider"></span>
                     <ul class="footer-link">
-                        <li><a href="#">Web Development</a></li>
-                        <li><a href="#">PHP Learning</a></li>
-                        <li><a href="#">Spoken English</a></li>
-                        <li><a href="#">Self-Driving Car</a></li>
-                        <li><a href="#">Garbage Collectors</a></li>
+                        <li><a href="#">B.Sc. in Hotel Administration and Hospitality</a></li>
+                        <li><a href="#">M.Sc. in Hotel Administration and Hospitality</a></li>
+                        <li><a href="#">Diploma In Food Production</a></li>
                     </ul>
                 </div><!-- end footer-widget -->
             </div><!-- end col-lg-3 -->
             <div class="col-lg-3 col-sm-6">
                 <div class="footer-widget">
-                    <h3 class="footer-title">mobile</h3>
+                    <h3 class="footer-title">Locator</h3>
                     <span class="section__divider"></span>
-                    <ul class="footer-link social-link">
-                        <li><a href="#"><i class="la la-apple"></i> App Store</a></li>
-                        <li><a href="#"><i class="la la-android"></i> Google Play</a></li>
-                    </ul>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6999.386041021372!2d77.11607507531903!3d28.698828140450093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d03de88e3d819%3A0x2d8af2b730b208e1!2sHotel%20Management%20Institute%20in%20Delhi%20%7C%20LBIIHM%20College!5e0!3m2!1sen!2sin!4v1590821800653!5m2!1sen!2sin" width="350" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
                 </div><!-- end footer-widget -->
             </div><!-- end col-lg-3 -->
         </div><!-- end row -->
@@ -83,7 +81,7 @@
                     Beautifully Coded, Crafted & Maintained by <b><a href="https://mirrordesign.tech" target="_blank">MIRROR DESIGN TECHSOLUTIONS</a></b></p>
             </div><!-- end col-lg-9 -->
             <div class="col-lg-2">
-                <div class="language-select">
+                <div style="display:none" class="language-select">
                     <select class="target-lang">
                         <option value="1">English</option>
                         <option value="2">Deutsch</option>

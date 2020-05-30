@@ -2851,7 +2851,7 @@ require __DIR__ . '/assets/config/global.config.php';
                 <div class="col-lg-5">
                     <div class="register-wrap">
                         <div class="contact-form-action">
-                            <h3 class="contact-title">Quick Enquriy for Course</h3>
+                            <h3 class="contact-title">Quick Enquiry for Admission</h3>
                             <form>
                                 <div class="row">
                                     <div class="col-lg-12">
@@ -2889,24 +2889,17 @@ require __DIR__ . '/assets/config/global.config.php';
                 <div class="col-lg-7">
                     <div class="register-heading">
                         <div class="section-heading">
-                            <h5 class="section__meta">register</h5>
-                            <h2 class="section__title">Get ahead with Learning Paths. Stay Sharp.</h2>
-                            <span class="section__divider"></span>
+                            <!-- <h5 class="section__meta">Message From Chairman</h5> -->
+                            <h2 class="section__title">Message From Chairman</h2>
+                              <img src="assets/images/chairman.jpg" alt="small-avatar">
                             <p class="section__desc register__desc">
-                                Education is the process of acquiring the body of knowledge and skills
-                                that people are expected have in your society.
-                                A education develops a critical thought process in addition to learning.
-                                Bimply dummy text of the printing and typesetting istryrem
-                                Ipsum has been the industry’s standard dummy text ever since the 1500s,
-                                when an unknown printer.when an unknown printer
-                                took a galley of type and scramble
+                              We are proud to mention that LBIIHM is a renowned name in the field of Hospitality Education. We have state-of-the-art infrastructure to enable students to...
                             </p>
                             <p class="section__desc register__desc2">
-                                tryrem Ipsum has been the industry’s standard dummy text ever since the 1500s,
-                                when an unknown printer.
+
                             </p>
                             <div class="get-start-btn">
-                                <a href="#" class="theme-btn">get started</a>
+                                <a href="#" class="theme-btn">Read More</a>
                             </div>
                         </div><!-- end section-heading -->
                     </div><!-- end register-heading -->
