@@ -41,29 +41,27 @@
             </div><!-- end col-lg-3 -->
             <div class="col-lg-3 col-sm-6">
                 <div class="footer-widget">
-                    <h3 class="footer-title">company</h3>
+                    <h3 class="footer-title">About Us</h3>
                     <span class="section__divider"></span>
                     <ul class="footer-link">
-                        <li><a href="#">About LBIIHM</a></li>
-                        <li><a href="#">Our Campus</a></li>
-                        <li><a href="#">Get Admission</a></li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">FAQs</a></li>
-                        <li><a href="#">Apply Now</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#">LBIIHM is an ISO 9001:2008 certified institute, established in the year 2003 to cater students in the field of Hotel Management and is now recognized as a centre of excellence in providing quality hospitality education. Since now the institute has endeavoured to stand apart and be counted among the best Hotel Management Institutes in India</a></li>
                     </ul>
                 </div><!-- end footer-widget -->
             </div><!-- end col-lg-3 -->
             <div class="col-lg-3 col-sm-6">
-                <div class="footer-widget">
-                    <h3 class="footer-title">Our Courses</h3>
-                    <span class="section__divider"></span>
-                    <ul class="footer-link">
-                        <li><a href="#">B.Sc. in Hotel Administration and Hospitality</a></li>
-                        <li><a href="#">M.Sc. in Hotel Administration and Hospitality</a></li>
-                        <li><a href="#">Diploma In Food Production</a></li>
-                    </ul>
-                </div><!-- end footer-widget -->
+              <div class="footer-widget">
+                  <h3 class="footer-title">company links</h3>
+                  <span class="section__divider"></span>
+                  <ul class="footer-link">
+                      <li><a href="#">About LBIIHM</a></li>
+                      <li><a href="#">Our Campus</a></li>
+                      <li><a href="#">Get Admission</a></li>
+                      <li><a href="#">Blog</a></li>
+                      <li><a href="#">FAQs</a></li>
+                      <li><a href="#">Apply Now</a></li>
+                      <li><a href="#">Contact Us</a></li>
+                  </ul>
+              </div><!-- end footer-widget -->
             </div><!-- end col-lg-3 -->
             <div class="col-lg-3 col-sm-6">
                 <div class="footer-widget">

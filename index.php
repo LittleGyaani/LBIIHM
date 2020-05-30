@@ -84,18 +84,17 @@ require __DIR__ . '/assets/config/global.config.php';
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-9 ml-auto">
-                                    <!-- <div class="slider-heading text-right">
-                                        <h2 class="slider__title">Education Needs Complete Solution</h2>
-                                        <p class="slider__text">Emply dummy text of the printing and typesetting industry orem Ipsum has been the
-                                            <br>industry's standard dummy text ever sinceprinting and typesetting industry.
+                                    <div class="slider-heading text-right">
+                                        <h2 style="font-size: 3.4em;" class="slider__title">Join Us for Bright Future</h2>
+                                        <p class="slider__text">
                                         </p>
                                         <div class="slider-promo-btn justify-content-end">
-                                            <a class="mfp-iframe video-play-btn" href="https://www.youtube.com/watch?v=cRXm1p-CNyk">
+                                            <!-- <a class="mfp-iframe video-play-btn" href="https://www.youtube.com/watch?v=cRXm1p-CNyk">
                                                 <span class="la la-play"></span> Watch Preview
-                                            </a>
-                                            <a href="admission" class="theme-btn">get enrolled now</a>
+                                            </a> -->
+                                            <a href="admission" class="theme-btn">Contact Us</a>
                                         </div>
-                                    </div> -->
+                                    </div>
                                 </div><!-- col-md-7 -->
                             </div><!-- row -->
                         </div><!-- container -->
@@ -2181,7 +2180,7 @@ require __DIR__ . '/assets/config/global.config.php';
                                 <div class="col-lg-4">
                                     <div class="benefit-item benefit-item1">
                                         <span class="la la-mouse-pointer benefit__icon"></span>
-                                        <h4 class="benefit__title">100,000 courses</h4>
+                                        <h4 class="benefit__title"> Best courses</h4>
                                     </div><!-- end benefit-item -->
                                 </div><!-- end col-lg-4 -->
                                 <div class="col-lg-4">
@@ -2805,7 +2804,7 @@ require __DIR__ . '/assets/config/global.config.php';
                                 <div class="col-lg-4">
                                     <div class="benefit-item benefit-item1">
                                         <span class="la la-mouse-pointer benefit__icon"></span>
-                                        <h4 class="benefit__title">100,000 courses</h4>
+                                        <h4 class="benefit__title">Best courses</h4>
                                     </div><!-- end benefit-item -->
                                 </div><!-- end col-lg-4 -->
                                 <div class="col-lg-4">
