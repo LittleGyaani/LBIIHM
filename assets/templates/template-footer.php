@@ -67,7 +67,7 @@
             </div><!-- end col-lg-3 -->
             <div class="col-lg-3 col-sm-6">
                 <div class="footer-widget">
-                    <h3 class="footer-title">Locator</h3>
+                    <h3 class="footer-title">Locate Us</h3>
                     <span class="section__divider"></span>
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6999.386041021372!2d77.11607507531903!3d28.698828140450093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d03de88e3d819%3A0x2d8af2b730b208e1!2sHotel%20Management%20Institute%20in%20Delhi%20%7C%20LBIIHM%20College!5e0!3m2!1sen!2sin!4v1590821800653!5m2!1sen!2sin" width="350" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
