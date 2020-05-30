@@ -1875,7 +1875,7 @@ require __DIR__ . '/assets/config/global.config.php';
     <!--======================================
         START COURSE 2 AREA
 ======================================-->
-    <section style="display:none" class="course-area course-area2">
+    <section style="display:" class="course-area course-area2">
         <div class="course-wrapper">
             <div class="container">
                 <div class="row">
@@ -1897,18 +1897,18 @@ require __DIR__ . '/assets/config/global.config.php';
                             <div class="course-block course-carousel">
                                 <div class="course-item">
                                     <div class="course-img">
-                                        <a href="course-details" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
+                                        <a href="course-details" class="course__img"><img src="<?= $baseURI; ?>/assets/images/courses/courses1.jpg" alt=""></a>
                                     </div><!-- end course-img -->
                                     <div class="course-content">
                                         <p class="course__label">
-                                            <span class="course__label-text">all levels</span>
+                                            <!-- <span class="course__label-text">all levels</span> -->
                                             <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                         </p>
                                         <h3 class="course__title">
-                                            <a href="course-details">User Experience Design - Adobe XD UI UX Design</a>
+                                            <a href="course-details">B.Sc. in Hotel Administration and Hospitality</a>
                                         </h3>
                                         <p class="course__author">
-                                            <a href="#">kamran paul</a>
+                                            <!-- <a href="#">kamran paul</a> -->
                                         </p>
                                         <div class="rating-wrap d-flex">
                                             <ul class="review-stars d-flex">
@@ -1925,33 +1925,33 @@ require __DIR__ . '/assets/config/global.config.php';
                                         </div><!-- end rating-wrap -->
                                         <div class="course-meta">
                                             <ul class="course__list d-flex">
-                                                <li><span class="meta__date"><i class="la la-play-circle"></i> 45 Classes</span></li>
-                                                <li><span class="meta__date"><i class="la la-clock-o"></i> 3 hours 20 min</span></li>
+                                                <!-- <li><span class="meta__date"><i class="la la-play-circle"></i> 45 Classes</span></li> -->
+                                                <!-- <li><span class="meta__date"><i class="la la-clock-o"></i> 3 hours 20 min</span></li> -->
                                             </ul>
                                         </div><!-- end course-meta -->
                                         <div class="course-price-wrap">
-                                            <span class="course__price">Free</span>
-                                            <a href="#" class="course__btn">Get Enrolled</a>
+                                            <!-- <span class="course__price">Free</span> -->
+                                            <!-- <a href="#" class="course__btn">Get Enrolled</a> -->
                                         </div><!-- end course-price-wrap -->
                                     </div><!-- end course-content -->
                                 </div><!-- end course-item -->
                                 <div class="course-item">
                                     <div class="course-img">
-                                        <a href="course-details" class="course__img"><img src="assets/images/img11.jpg" alt=""></a>
+                                        <a href="course-details" class="course__img"><img src="<?= $baseURI; ?>/assets/images/courses/courses2.jpg"  alt=""></a>
                                         <div class="course-tooltip">
-                                            <span class="tooltip-label">bestseller</span>
+                                            <!-- <span class="tooltip-label">bestseller</span> -->
                                         </div>
                                     </div><!-- end course-img -->
                                     <div class="course-content">
                                         <p class="course__label">
-                                            <span class="course__label-text">all levels</span>
+                                            <!-- <span class="course__label-text">all levels</span> -->
                                             <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                         </p>
                                         <h3 class="course__title">
-                                            <a href="course-details">The Complete Digital finance Marketing Course</a>
+                                            <a href="course-details">M.Sc. in Hotel Administration and Hospitality</a>
                                         </h3>
                                         <p class="course__author">
-                                            <a href="#">jose purtila</a>
+                                            <!-- <a href="#">jose purtila</a> -->
                                         </p>
                                         <div class="rating-wrap d-flex">
                                             <ul class="review-stars d-flex">
@@ -1968,30 +1968,30 @@ require __DIR__ . '/assets/config/global.config.php';
                                         </div><!-- end rating-wrap -->
                                         <div class="course-meta">
                                             <ul class="course__list d-flex">
-                                                <li><span class="meta__date"><i class="la la-play-circle"></i> 45 Classes</span></li>
-                                                <li><span class="meta__date"><i class="la la-clock-o"></i> 3 hours 20 min</span></li>
+                                                <!-- <li><span class="meta__date"><i class="la la-play-circle"></i> 45 Classes</span></li> -->
+                                                <!-- <li><span class="meta__date"><i class="la la-clock-o"></i> 3 hours 20 min</span></li> -->
                                             </ul>
                                         </div><!-- end course-meta -->
                                         <div class="course-price-wrap">
-                                            <span class="course__price"><span class="course__before-price">$189.00</span> $119.00</span>
-                                            <a href="#" class="course__btn">Add to cart</a>
+                                            <!-- <span class="course__price"><span class="course__before-price">$189.00</span> $119.00</span> -->
+                                            <!-- <a href="#" class="course__btn">Add to cart</a> -->
                                         </div><!-- end course-price-wrap -->
                                     </div><!-- end course-content -->
                                 </div><!-- end course-item -->
                                 <div class="course-item">
                                     <div class="course-img">
-                                        <a href="course-details" class="course__img"><img src="assets/images/img12.jpg" alt=""></a>
+                                        <a href="course-details" class="course__img"><img src="<?= $baseURI; ?>/assets/images/courses/courses3.jpg" alt=""></a>
                                     </div><!-- end course-img -->
                                     <div class="course-content">
                                         <p class="course__label">
-                                            <span class="course__label-text">all levels</span>
+                                            <!-- <span class="course__label-text">all levels</span> -->
                                             <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                         </p>
                                         <h3 class="course__title">
-                                            <a href="course-details">Complete Python Bootcamp: Go from zero to hero</a>
+                                            <a href="course-details">Diploma In Food Production</a>
                                         </h3>
                                         <p class="course__author">
-                                            <a href="#">noelle travesy</a>
+                                            <a href="#">A tailor-made program designed....</a>
                                         </p>
                                         <div class="rating-wrap d-flex">
                                             <ul class="review-stars d-flex">
@@ -2008,30 +2008,30 @@ require __DIR__ . '/assets/config/global.config.php';
                                         </div><!-- end rating-wrap -->
                                         <div class="course-meta">
                                             <ul class="course__list d-flex">
-                                                <li><span class="meta__date"><i class="la la-play-circle"></i> 45 Classes</span></li>
-                                                <li><span class="meta__date"><i class="la la-clock-o"></i> 3 hours 20 min</span></li>
+                                                <!-- <li><span class="meta__date"><i class="la la-play-circle"></i> 45 Classes</span></li> -->
+                                                <!-- <li><span class="meta__date"><i class="la la-clock-o"></i> 3 hours 20 min</span></li> -->
                                             </ul>
                                         </div><!-- end course-meta -->
                                         <div class="course-price-wrap">
-                                            <span class="course__price">$68.00</span>
-                                            <a href="#" class="course__btn">Add to cart</a>
+                                            <!-- <span class="course__price">$68.00</span> -->
+                                            <!-- <a href="#" class="course__btn">Add to cart</a> -->
                                         </div><!-- end course-price-wrap -->
                                     </div><!-- end course-content -->
                                 </div><!-- end course-item -->
                                 <div class="course-item">
                                     <div class="course-img">
-                                        <a href="course-details" class="course__img"><img src="assets/images/img9.jpg" alt=""></a>
+                                        <a href="course-details" class="course__img"><img src="<?= $baseURI; ?>/assets/images/courses/courses1.jpg" alt=""></a>
                                     </div><!-- end course-img -->
                                     <div class="course-content">
                                         <p class="course__label">
-                                            <span class="course__label-text">all levels</span>
+                                            <!-- <span class="course__label-text">all levels</span> -->
                                             <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                         </p>
                                         <h3 class="course__title">
-                                            <a href="course-details">Complete Python Bootcamp: Go from zero to hero</a>
+                                            <a href="course-details">B.Sc. in Hotel Administration and Hospitality</a>
                                         </h3>
                                         <p class="course__author">
-                                            <a href="#">noelle travesy</a>
+                                            <!-- <a href="#">noelle travesy</a> -->
                                         </p>
                                         <div class="rating-wrap d-flex">
                                             <ul class="review-stars d-flex">
@@ -2048,33 +2048,33 @@ require __DIR__ . '/assets/config/global.config.php';
                                         </div><!-- end rating-wrap -->
                                         <div class="course-meta">
                                             <ul class="course__list d-flex">
-                                                <li><span class="meta__date"><i class="la la-play-circle"></i> 45 Classes</span></li>
-                                                <li><span class="meta__date"><i class="la la-clock-o"></i> 3 hours 20 min</span></li>
+                                                <!-- <li><span class="meta__date"><i class="la la-play-circle"></i> 45 Classes</span></li> -->
+                                                <!-- <li><span class="meta__date"><i class="la la-clock-o"></i> 3 hours 20 min</span></li> -->
                                             </ul>
                                         </div><!-- end course-meta -->
                                         <div class="course-price-wrap">
-                                            <span class="course__price">$68.00</span>
-                                            <a href="#" class="course__btn">Add to cart</a>
+                                            <!-- <span class="course__price">$68.00</span> -->
+                                            <!-- <a href="#" class="course__btn">Add to cart</a> -->
                                         </div><!-- end course-price-wrap -->
                                     </div><!-- end course-content -->
                                 </div><!-- end course-item -->
                                 <div class="course-item">
                                     <div class="course-img">
-                                        <a href="course-details" class="course__img"><img src="assets/images/img8.jpg" alt=""></a>
+                                        <a href="course-details" class="course__img"><img src="<?= $baseURI; ?>/assets/images/courses/courses3.jpg" alt=""></a>
                                         <div class="course-tooltip">
-                                            <span class="tooltip-label">highest rated</span>
+                                            <!-- <span class="tooltip-label">highest rated</span> -->
                                         </div>
                                     </div><!-- end course-img -->
                                     <div class="course-content">
                                         <p class="course__label">
-                                            <span class="course__label-text">all levels</span>
+                                            <!-- <span class="course__label-text">all levels</span> -->
                                             <a href="#" class="course__collection-icon" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="la la-heart-o"></span></a>
                                         </p>
                                         <h3 class="course__title">
-                                            <a href="course-details">Complete Python Bootcamp: Go from zero to hero</a>
+                                            <a href="course-details">Diploma In Food Production</a>
                                         </h3>
                                         <p class="course__author">
-                                            <a href="#">noelle travesy</a>
+                                            <a href="#">A tailor-made program designed....</a>
                                         </p>
                                         <div class="rating-wrap d-flex">
                                             <ul class="review-stars d-flex">
@@ -2091,13 +2091,13 @@ require __DIR__ . '/assets/config/global.config.php';
                                         </div><!-- end rating-wrap -->
                                         <div class="course-meta">
                                             <ul class="course__list d-flex">
-                                                <li><span class="meta__date"><i class="la la-play-circle"></i> 45 Classes</span></li>
-                                                <li><span class="meta__date"><i class="la la-clock-o"></i> 3 hours 20 min</span></li>
+                                                <!-- <li><span class="meta__date"><i class="la la-play-circle"></i> 45 Classes</span></li> -->
+                                                <!-- <li><span class="meta__date"><i class="la la-clock-o"></i> 3 hours 20 min</span></li> -->
                                             </ul>
                                         </div><!-- end course-meta -->
                                         <div class="course-price-wrap">
-                                            <span class="course__price">$68.00</span>
-                                            <a href="#" class="course__btn">Add to cart</a>
+                                            <!-- <span class="course__price">$68.00</span> -->
+                                            <!-- <a href="#" class="course__btn">Add to cart</a> -->
                                         </div><!-- end course-price-wrap -->
                                     </div><!-- end course-content -->
                                 </div><!-- end course-item -->
@@ -2206,6 +2206,237 @@ require __DIR__ . '/assets/config/global.config.php';
             </div><!-- end row -->
         </div><!-- end container -->
     </section>
+
+
+    <!--================================
+         START TESTIMONIAL AREA
+  =================================-->
+    <section class="testimonial-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-heading text-center">
+                        <!-- <h5 class="section__meta">Meet Our Alumni</h5> -->
+                        <h2 class="section__title">Meet Our Alumni</h2>
+                        <span class="section__divider"></span>
+                    </div><!-- end section-heading -->
+                </div><!-- end col-md-8 -->
+            </div><!-- end row -->
+        </div><!-- end container -->
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="testimonial-wrap">
+                        <div class="testimonial-item">
+                            <div class="testimonial__name">
+                                <img src="<?= $baseURI; ?>/assets/images/alumni/alumni1.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Siddharth Baurai</h3>
+                                <span class="testimonial__name-meta">Chef at JW Marriott Singapore, Diploma in Food Production, Batch: 2004</span>
+                                <span class="testimonial__name-rating">
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                </span>
+                            </div><!-- end testimonial__name -->
+                            <div class="testimonial__desc">
+                                <p class="testimonial__desc-desc">
+                                  It gives me a great pleasure to say with pride that I have completed my Hotel Management from LBIIHM Delhi.
+  The relationship between faculties and students is very cordial, which gave me an opportunity to excel in my area of interest. The years we spent here were splendid and have helped us to grow better professionally and personally.
+  I would specially like to thank our Director Dr. Kamal Kumar, who supported me during my years at LBIIHM. And also I would thank faculties for putting attention on every student to improve their skills.
+  I'm glad to say that, what I am today is all because of you LBIIHM
+                                </p>
+                            </div><!-- end testimonial__desc -->
+                        </div><!-- end testimonial-item -->
+                        <div class="testimonial-item">
+                            <div class="testimonial__name">
+                                <img src="<?= $baseURI; ?>/assets/images/alumni/alumni2.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Mr Abhinav Mathur</h3>
+                                <span class="testimonial__name-meta">Asst. Manager In-Charge (In Room Dining) - Alwadi - Doha, Qatar - MGallery Hotel Collection (Accorhotels Group)</span>
+                                <span class="testimonial__name-rating">
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                </span>
+                            </div><!-- end testimonial__name -->
+                            <div class="testimonial__desc">
+                                <p class="testimonial__desc-desc">
+                                  My journey from hotel school to be a Hotelier:
+  LBIIHM was my grad school, I was excited since I was stepping into a new life a new jouney but at same time I was little scared to be very honest since I was leaving my home and moving to a different place and between new people but that time I was not knowing that it will be a life-changing opportunity for me.
+  Learning with LBIIHM and growing was an extremely amazing journey. I have gained so much of theoretical knowledge as well as practical knowledge, through which I was able to get so many awesome opportunities. Through LBIIHM internship program, I landed in an internship program with Meydan Hotels and Hospitality in Dubai, UAE which became the biggest elevator in my career. That was a turning point of my career and the opportunity to fulfill my career goals. I felt ready to conquer the world overseas due to all the training and professional development offered by LBIIHM. The dedication and continuous learning helped me in progressing in my career and now
+  currently I am working as Asst. Manager Incharge In-Room Dining for Alwadi - Doha, Qatar - Mgallery hotel collection by Accorhotels which is one of the biggest hospitality groups across the globe.
+  I thank LBIIHM, my mentors, teachers for continuous support in moulding my future and career.
+                                </p>
+                            </div><!-- end testimonial__desc -->
+                        </div><!-- end testimonial-item -->
+                        <div class="testimonial-item">
+                            <div class="testimonial__name">
+                                <img src="<?= $baseURI; ?>/assets/images/alumni/alumni3.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Ajay Bish</h3>
+                                <span class="testimonial__name-meta">Chef, ITC Maurya - New Delhi</span>
+                                <span class="testimonial__name-rating">
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                </span>
+                            </div><!-- end testimonial__name -->
+                            <div class="testimonial__desc">
+                                <p class="testimonial__desc-desc">
+                                It was a great journey all through the years passed from 2014 to 2017.  I am grateful to the team of LBIIHM for enhancing my growth in the hospitality industry and polishing my skills and knowledge in the specific field of culinary.
+                                </p>
+                            </div><!-- end testimonial__desc -->
+                        </div><!-- end testimonial-item -->
+                        <div class="testimonial-item">
+                            <div class="testimonial__name">
+                                <img src="<?= $baseURI; ?>/assets/images/alumni/alumni4.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Mr Mayank Mathur</h3>
+                                <span class="testimonial__name-meta">Sous Chef  - Radisson Jaipur City Center</span>
+                                <span class="testimonial__name-rating">
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                </span>
+                            </div><!-- end testimonial__name -->
+                            <div class="testimonial__desc">
+                                <p class="testimonial__desc-desc">
+                                  Finally, a day is here when I can express my feelings for LBIIHM. This institute is full of positivity and hard work. I feel blessed to be a part of this institute. It's more like a home to me, teachers are like parents, who were there whenever I got hopeless and discouraged. They developed me to become a confident and rising star. Faculties, facilities, extracurricular activities, etc. all were the reason to build me as a polite and disciplined person for the hotel industry.
+                                  I would like to thank LBIIHM for making me more intellectual and confident.
+                                </p>
+                            </div><!-- end testimonial__desc -->
+                        </div><!-- end testimonial-item -->
+                        <div class="testimonial-item">
+                            <div class="testimonial__name">
+                                <img src="<?= $baseURI; ?>/assets/images/alumni/alumni5.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Mr Sumit Rathore</h3>
+                                <span class="testimonial__name-meta">Asst.Manager - IZUMI RESTAURANT AND LOUNGE, Part of Kampala Serena Hotels, UGANDA,KENYA(EastAfrica)</span>
+                                <span class="testimonial__name-rating">
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                </span>
+                            </div><!-- end testimonial__name -->
+                            <div class="testimonial__desc">
+                                <p class="testimonial__desc-desc">
+                                  It's a great honour to be a part of LBIIHM, I would like to express my appreciation to all of my teachers, friends who helped me throughout the years. Thank you for being so encouraging and doing everything you can keep us motivated and support throughout the semesters.  Your knowledge and leadership provided me with a priceless model for my career, I am so happy that LBIIHM is part of my education.
+                                </p>
+                            </div><!-- end testimonial__desc -->
+                        </div><!-- end testimonial-item -->
+                        <div class="testimonial-item">
+                            <div class="testimonial__name">
+                                <img src="<?= $baseURI; ?>/assets/images/alumni/alumni6.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Mr Suresh Rautela</h3>
+                                <span class="testimonial__name-meta">Assistant Manager - Defense Research Development Origination (DRDO) Guest House Jodhpur</span>
+                                <span class="testimonial__name-rating">
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                </span>
+                            </div><!-- end testimonial__name -->
+                            <div class="testimonial__desc">
+                                <p class="testimonial__desc-desc">
+                                  LBIIHM is a very good institute, faculty members are very friendly and they keep motivating you always. You will get to learn something new here every single day. Also, you will get to know that hotel management is not a limited field and it's really fun to be here. Thank you LBIIHM.
+                                </p>
+                            </div><!-- end testimonial__desc -->
+                        </div><!-- end testimonial-item -->
+                        <div class="testimonial-item">
+                            <div class="testimonial__name">
+                                <img src="<?= $baseURI; ?>/assets/images/alumni/alumni7.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Ms Krishika Agarwal</h3>
+                                <span class="testimonial__name-meta">Worked as GRA - Front Office at Jaypee Vasant Continental Delhi - 5 Star Luxury Hotel</span>
+                                <span class="testimonial__name-rating">
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                </span>
+                            </div><!-- end testimonial__name -->
+                            <div class="testimonial__desc">
+                                <p class="testimonial__desc-desc">
+                                  Finally, a day is here when I can express my feelings for LBIIHM. This institute is full of positivity and hard work. I feel blessed to be a part of this institute. It's more like a home to me, teachers are like parents, who were there whenever I got hopeless and discouraged. They developed me to become a confident and rising star. Faculties, facilities, extracurricular activities, etc. all were the reason to build me as a polite and disciplined person for the hotel industry.
+  I would like to thank LBIIHM for making me more intellectual and confident.
+                                </p>
+                            </div><!-- end testimonial__desc -->
+                        </div><!-- end testimonial-item -->
+                        <div class="testimonial-item">
+                            <div class="testimonial__name">
+                                <img src="<?= $baseURI; ?>/assets/images/alumni/alumni8.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Mr Sunil Singh Sindhwal</h3>
+                                <span class="testimonial__name-meta">Commi 1 at Taj Dubai, Burj Khalifa Street - Dubai - United Arab Emirates</span>
+                                <span class="testimonial__name-rating">
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                </span>
+                            </div><!-- end testimonial__name -->
+                            <div class="testimonial__desc">
+                                <p class="testimonial__desc-desc">
+                                  My journey of hospitality started with LBIIHM. When I joined LBIIHM, I was super excited, new place, new people, new atmosphere however at the same time, I was wondering if I would be able to do well. I consider myself lucky to have joined LBIIHM as not only I learned a lot of things about the hospitality and hotel industry, especially with amazing practical and theoretical sessions, I gained a lot of confidence and professionalism. I got the opportunity of Industrial Training at Le Meridien which gave me hands-on experience that helped me fulfill my dream of working overseas. I was so ready to conquer the world. I would like to thank the entire team of Lbiihm for helping me shape my career so wonderfully.
+                                </p>
+                            </div><!-- end testimonial__desc -->
+                        </div><!-- end testimonial-item -->
+                        <div class="testimonial-item">
+                            <div class="testimonial__name">
+                                <img src="<?= $baseURI; ?>/assets/images/alumni/alumni9.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Badri Prasad Mishra</h3>
+                                <span class="testimonial__name-meta">GM Operation, Asteria Jaipur</span>
+                                <span class="testimonial__name-rating">
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                </span>
+                            </div><!-- end testimonial__name -->
+                            <div class="testimonial__desc">
+                                <p class="testimonial__desc-desc">
+                                LBIIHM have given me a platform to showcase my desire to be a successful hotelier , i am so thankful to LBIIHM and proud to be student of this primer Institute. This institution just not has provide us the education but the quality hotel education which leads us to be a great hospitality person in the industry. Lbiihm were able to provide us all kind of activities and assignments to grow in careers and path to success our goal . Lbiihm were successfully able to promote us in the market for our Industrial training and ahead of that 100% successes rate of placements. I would like to congratulate Mr.Kamal Kumar and Mrs.Anita Gulati for their role of shaping our future. And all the best for fellow Students and Team LBIIHM, And Today what i am is possible because of LBIIHM.
+                                </p>
+                            </div><!-- end testimonial__desc -->
+                        </div><!-- end testimonial-item -->
+                        <div class="testimonial-item">
+                            <div class="testimonial__name">
+                                <img src="<?= $baseURI; ?>/assets/images/alumni/alumni10.jpg" alt="small-avatar">
+                                <h3 class="testimonial__name-title">Mandeep Dhaka</h3>
+                                <span class="testimonial__name-meta">Gibraltar Hotel Bowral,NSW, Sydney</span>
+                                <span class="testimonial__name-rating">
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                    <i class="la la-star"></i>
+                                </span>
+                            </div><!-- end testimonial__name -->
+                            <div class="testimonial__desc">
+                                <p class="testimonial__desc-desc">
+                                  “ My job has given me self confidence which can’t be taught. It only happens when someone believes in you. I have grown from a student to a manager. Thank you LBIIHM for growing those skills in me to run on successful pathway. Along the way my life has greatly changed also. My ambitions have also grown.</p>
+                                                    <p> MY RIGHT CHOICE WAS MY CORRECT DECISION
+                                </p>
+                            </div><!-- end testimonial__desc -->
+                        </div><!-- end testimonial-item -->
+                        <!-- end testimonial-item -->
+                    </div><!-- end testimonial-wrap -->
+                </div><!-- end col-md-12 -->
+            </div><!-- end row -->
+        </div><!-- container-fluid -->
+    </section><!-- end testimonial-area -->
+    <!--================================
+        END TESTIMONIAL AREA
+  =================================-->
+
 
     <div class="section-divider"></div>
     <!--======================================
@@ -2773,7 +3004,7 @@ require __DIR__ . '/assets/config/global.config.php';
                     <div class="blog-post-carousel">
                         <div class="blog-post-item">
                             <div class="blog-post-img">
-                                <img src="assets/images/img9.jpg" alt="blog image" class="blog__img">
+                                <img src="<?= $baseURI; ?>/assets/images/slider/home/slide2.jpg" alt="blog image" class="blog__img">
                                 <div class="blog__date">
                                     <span>24 may</span>
                                 </div><!-- end blog__date -->
@@ -2781,7 +3012,7 @@ require __DIR__ . '/assets/config/global.config.php';
                             <div class="post-body">
                                 <div class="blog-title">
                                     <a href="blog-single" class="blog__title">
-                                        User Experience Design Essentials
+                                        Cultural Feast Event
                                     </a>
                                 </div>
                                 <ul class="blog__panel d-flex align-items-center">
@@ -2793,7 +3024,7 @@ require __DIR__ . '/assets/config/global.config.php';
                         </div><!-- end blog-post-item -->
                         <div class="blog-post-item">
                             <div class="blog-post-img">
-                                <img src="assets/images/img12.jpg" alt="blog image" class="blog__img">
+                                <img src="<?= $baseURI; ?>/assets/images/slider/home/slide2.jpg" alt="blog image" class="blog__img">
                                 <div class="blog__date">
                                     <span>25 jun</span>
                                 </div><!-- end blog__date -->
@@ -2801,7 +3032,7 @@ require __DIR__ . '/assets/config/global.config.php';
                             <div class="post-body">
                                 <div class="blog-title">
                                     <a href="blog-single" class="blog__title">
-                                        Ultimate Photoshop Training: From Beginner
+                                        Cultural Feast Event
                                     </a>
                                 </div>
                                 <ul class="blog__panel d-flex align-items-center">
@@ -2813,7 +3044,7 @@ require __DIR__ . '/assets/config/global.config.php';
                         </div><!-- end blog-post-item -->
                         <div class="blog-post-item">
                             <div class="blog-post-img">
-                                <img src="assets/images/img11.jpg" alt="blog image" class="blog__img">
+                                <img src="<?= $baseURI; ?>/assets/images/slider/home/slide2.jpg" alt="blog image" class="blog__img">
                                 <div class="blog__date">
                                     <span>26 jul</span>
                                 </div><!-- end blog__date -->
@@ -2821,7 +3052,7 @@ require __DIR__ . '/assets/config/global.config.php';
                             <div class="post-body">
                                 <div class="blog-title">
                                     <a href="blog-single" class="blog__title">
-                                        Sales Training: Practical Techniques
+                                    Cultural Feast Event
                                     </a>
                                 </div>
                                 <ul class="blog__panel d-flex align-items-center">
@@ -2833,7 +3064,7 @@ require __DIR__ . '/assets/config/global.config.php';
                         </div><!-- end blog-post-item -->
                         <div class="blog-post-item">
                             <div class="blog-post-img">
-                                <img src="assets/images/img10.jpg" alt="blog image" class="blog__img">
+                                <img src="<?= $baseURI; ?>/assets/images/slider/home/slide2.jpg" alt="blog image" class="blog__img">
                                 <div class="blog__date">
                                     <span>27 aug</span>
                                 </div><!-- end blog__date -->
@@ -2841,7 +3072,7 @@ require __DIR__ . '/assets/config/global.config.php';
                             <div class="post-body">
                                 <div class="blog-title">
                                     <a href="blog-single" class="blog__title">
-                                        Complete Financial Analyst Course
+                                        Cultural Feast Event
                                     </a>
                                 </div>
                                 <ul class="blog__panel d-flex align-items-center">
@@ -2853,7 +3084,7 @@ require __DIR__ . '/assets/config/global.config.php';
                         </div><!-- end blog-post-item -->
                         <div class="blog-post-item">
                             <div class="blog-post-img">
-                                <img src="assets/images/img12.jpg" alt="blog image" class="blog__img">
+                                <img src="<?= $baseURI; ?>/assets/images/slider/home/slide2.jpg" alt="blog image" class="blog__img">
                                 <div class="blog__date">
                                     <span>28 sept</span>
                                 </div><!-- end blog__date -->
@@ -2861,7 +3092,7 @@ require __DIR__ . '/assets/config/global.config.php';
                             <div class="post-body">
                                 <div class="blog-title">
                                     <a href="blog-single" class="blog__title">
-                                        Complete Financial Analyst Course
+                                        Cultural Feast Event
                                     </a>
                                 </div>
                                 <ul class="blog__panel d-flex align-items-center">
@@ -2873,7 +3104,7 @@ require __DIR__ . '/assets/config/global.config.php';
                         </div><!-- end blog-post-item -->
                         <div class="blog-post-item">
                             <div class="blog-post-img">
-                                <img src="assets/images/img11.jpg" alt="blog image" class="blog__img">
+                                <img src="<?= $baseURI; ?>/assets/images/slider/home/slide2.jpg" alt="blog image" class="blog__img">
                                 <div class="blog__date">
                                     <span>29 oct</span>
                                 </div><!-- end blog__date -->
@@ -2881,7 +3112,7 @@ require __DIR__ . '/assets/config/global.config.php';
                             <div class="post-body">
                                 <div class="blog-title">
                                     <a href="blog-single" class="blog__title">
-                                        Complete Financial Analyst Course
+                                        Cultural Feast Event
                                     </a>
                                 </div>
                                 <ul class="blog__panel d-flex align-items-center">
@@ -2893,7 +3124,7 @@ require __DIR__ . '/assets/config/global.config.php';
                         </div><!-- end blog-post-item -->
                         <div class="blog-post-item">
                             <div class="blog-post-img">
-                                <img src="assets/images/img9.jpg" alt="blog image" class="blog__img">
+                                <img src="<?= $baseURI; ?>/assets/images/slider/home/slide2.jpg" alt="blog image" class="blog__img">
                                 <div class="blog__date">
                                     <span>3 nov</span>
                                 </div><!-- end blog__date -->
@@ -2901,7 +3132,7 @@ require __DIR__ . '/assets/config/global.config.php';
                             <div class="post-body">
                                 <div class="blog-title">
                                     <a href="blog-single" class="blog__title">
-                                        Complete Financial Analyst Course
+                                      Cultural Feast Event
                                     </a>
                                 </div>
                                 <ul class="blog__panel d-flex align-items-center">
