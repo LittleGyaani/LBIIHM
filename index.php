@@ -2185,7 +2185,7 @@ require __DIR__ . '/assets/config/global.config.php';
                                 </div><!-- end col-lg-4 -->
                                 <div class="col-lg-4">
                                     <div class="benefit-item benefit-item2">
-                                        <span class="la la-bolt benefit__icon"></span>
+                                        <span class="la la-graduation-cap benefit__icon"></span>
                                         <h4 class="benefit__title">Live Learning</h4>
                                     </div><!-- end benefit-item -->
                                 </div><!-- end col-lg-4 -->
@@ -2809,7 +2809,7 @@ require __DIR__ . '/assets/config/global.config.php';
                                 </div><!-- end col-lg-4 -->
                                 <div class="col-lg-4">
                                     <div class="benefit-item benefit-item2">
-                                        <span class="la la-bolt benefit__icon"></span>
+                                        <span class="la la-graduation-cap benefit__icon"></span>
                                         <h4 class="benefit__title">Live Learning</h4>
                                     </div><!-- end benefit-item -->
                                 </div><!-- end col-lg-4 -->
